@@ -174,7 +174,7 @@ const LandingPage = ({ data }: LandingPageProps) => {
             <div className="relative mt-8 lg:mt-0 overflow-hidden rounded-3xl">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-blue-600 rounded-3xl transform rotate-6 opacity-20"></div>
               <img 
-                src={data.heroImage || "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"}
+                src={data.heroImage || "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Solar_Wallbox_Elektroauto-kAQeu7bz1GrhPRegiFxeHjkq9GOd4f.png"}
                 alt={`Solaranlage ${data.location || ''}`}
                 className="relative z-10 w-full h-64 sm:h-80 lg:h-96 xl:h-[500px] object-cover rounded-3xl shadow-2xl transition-transform duration-500 hover:scale-105"
               />

@@ -292,7 +292,7 @@ const Index = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-primary/40 to-primary rounded-3xl transform rotate-6 opacity-20"></div>
               <img 
-                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlage/Solaranlage%20Hero%20Sonnenhelden24-2025.png" 
+                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Solaranlage_und_Wallbox-66Fq4gWhfa3bzllE4BtWZHaYAA5DUP.png" 
                 alt="Moderne Solaranlage installiert"
                 className="relative z-10 w-full h-96 lg:h-[500px] object-cover rounded-3xl shadow-2xl transition-transform duration-500 hover:scale-105"
               />
