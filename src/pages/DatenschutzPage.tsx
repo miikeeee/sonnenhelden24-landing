@@ -8,8 +8,8 @@ const DatenschutzPage = () => {
       {/* Header */}
       <header className="bg-white/95 backdrop-blur-sm shadow-sm">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-2xl font-bold text-blue-600">
-            klimahero24
+          <div className="text-2xl font-bold text-yellow-600">
+            sonnenhelden24
           </div>
           <Link to="/">
             <Button variant="outline" className="flex items-center gap-2">
@@ -28,7 +28,7 @@ const DatenschutzPage = () => {
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">1. Einleitung</h2>
               <p className="text-gray-700 mb-4">
-                Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, BDSG, TMG, TTDSG). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website klimahero24.de.
+                Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, BDSG, TMG, TTDSG). In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website sonnenhelden24.de.
               </p>
               <p className="text-gray-700 mb-4">
                 Mit dem Besuch dieser Website erklären Sie sich mit der nachfolgenden Verarbeitung Ihrer personenbezogenen Daten einverstanden.
@@ -41,8 +41,8 @@ const DatenschutzPage = () => {
                 <p className="mb-1">Mike Mildenberger</p>
                 <p className="mb-1">Rosenweg 21</p>
                 <p className="mb-1">53604 Bad Honnef</p>
-                <p className="mb-1">E-Mail: info@klimahero24.de</p>
-                <p>Website: https://www.klimahero24.de</p>
+                <p className="mb-1">E-Mail: info@sonnenhelden24.de</p>
+                <p>Website: https://www.sonnenhelden24.de</p>
               </div>
             </section>
 

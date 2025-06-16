@@ -55,12 +55,12 @@ const Index = () => {
       try {
         const response = await fetch('/data/cities.json');
         const data = await response.json();
-        
         // Load header images for each city
         const citiesWithImages = await Promise.all(
           data.cityCards.slice(0, 6).map(async (city) => {
             try {
-              const cityResponse = await fetch(`/data/klimatisierung/${city.slug}.json`);
+              // SOLAR: Lade Solaranlagen-Daten statt Klimatisierung
+              const cityResponse = await fetch(`/data/solaranlagen/${city.slug}.json`);
               const cityData = await cityResponse.json();
               return {
                 ...city,
@@ -72,7 +72,6 @@ const Index = () => {
             }
           })
         );
-        
         setCityCards(citiesWithImages);
       } catch (error) {
         console.error('Error loading city cards:', error);
@@ -84,42 +83,42 @@ const Index = () => {
   useEffect(() => {
     const loadRatgeberArticles = async () => {
       try {
-        // Neue klimarelevante Ratgeber-Artikel (aus /public/data/ratgeber)
+        // SOLAR: Solar-relevante Ratgeber-Artikel (aus /public/data/ratgeber)
         const articles = [
           {
-            slug: 'klimaanlagen-trends-2025',
-            title: 'Klimaanlagen Trends 2025: Die neuesten Ideen für Ihr Zuhause',
-            description: 'Klimaanlagen Trends 2025 ✓ Moderne Klimalösungen ✓ Aktuelle Designs & Technologien ✓ Inspiration für Ihr Zuhause ✓ Jetzt entdecken!',
+            slug: 'solaranlagen-trends-2025',
+            title: 'Solaranlagen Trends 2025: Die neuesten Ideen für Ihr Zuhause',
+            description: 'Solaranlagen Trends 2025 ✓ Moderne Photovoltaik-Lösungen ✓ Aktuelle Designs & Technologien ✓ Inspiration für Ihr Zuhause ✓ Jetzt entdecken!',
             defaultImage: 'https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
           },
           {
-            slug: 'klimaanlagen-design-trends-2025',
-            title: 'Klimaanlagen Design Trends 2025: Moderne Lösungen & Innovationen',
-            description: 'Klimaanlagen Design Trends 2025 ✓ Moderne Designs ✓ Neue Materialien ✓ Smart Home ✓ Farbtrends ✓ Professionelle Beratung ✓ Jetzt entdecken!',
+            slug: 'solaranlagen-design-trends-2025',
+            title: 'Solaranlagen Design Trends 2025: Moderne Lösungen & Innovationen',
+            description: 'Solaranlagen Design Trends 2025 ✓ Moderne Designs ✓ Neue Materialien ✓ Smart Home ✓ Farbtrends ✓ Professionelle Beratung ✓ Jetzt entdecken!',
             defaultImage: 'https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
           },
           {
-            slug: 'moderne-klimaanlagen-2025',
-            title: 'Moderne Klimaanlagen 2025: Trends, Technik & smarte Lösungen',
-            description: 'Moderne Klimaanlagen 2025 ✓ Neue Technologien ✓ Smart-Home Integration ✓ Nachhaltigkeit ✓ Design-Trends ✓ Kosten & Tipps ✓ Jetzt entdecken!',
+            slug: 'moderne-solaranlagen-2025',
+            title: 'Moderne Solaranlagen 2025: Trends, Technik & smarte Lösungen',
+            description: 'Moderne Solaranlagen 2025 ✓ Neue Technologien ✓ Smart-Home Integration ✓ Nachhaltigkeit ✓ Design-Trends ✓ Kosten & Tipps ✓ Jetzt entdecken!',
             defaultImage: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
           },
           {
-            slug: 'klimaanlage-kosten-2025',
-            title: 'Klimaanlage Kosten 2025: Kompletter Preisüberblick',
-            description: 'Klimaanlage Kosten 2025 ✓ Preise für Split- & Multisplit-Anlagen ✓ Kostenrechner ✓ Spartipps ✓ Förderungen ✓ Alle Infos zu Klimaanlagen-Preisen ✓ Jetzt informieren!',
+            slug: 'solaranlage-kosten-2025',
+            title: 'Solaranlage Kosten 2025: Kompletter Preisüberblick',
+            description: 'Solaranlage Kosten 2025 ✓ Preise für Photovoltaik-Anlagen ✓ Kostenrechner ✓ Spartipps ✓ Förderungen ✓ Alle Infos zu Solar-Preisen ✓ Jetzt informieren!',
             defaultImage: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
           },
           {
-            slug: 'klimaanlage-nachruesten-kosten',
-            title: 'Klimaanlage nachrüsten Kosten 2024: Kompletter Preisüberblick',
-            description: 'Klimaanlage nachrüsten Kosten 2024 ✓ Preise für Split- & Multisplit-Anlagen ✓ Sparpotential & Förderungen ✓ Kostenlose Beratung anfragen!',
+            slug: 'solaranlage-nachruesten-kosten',
+            title: 'Solaranlage nachrüsten Kosten 2024: Kompletter Preisüberblick',
+            description: 'Solaranlage nachrüsten Kosten 2024 ✓ Preise für Photovoltaik-Anlagen ✓ Sparpotential & Förderungen ✓ Kostenlose Beratung anfragen!',
             defaultImage: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
           },
           {
-            slug: 'barrierefreie-klimatisierung-planen',
-            title: 'Barrierefreie Klimatisierung planen: Ratgeber & Förderungen 2025',
-            description: 'Barrierefreie Klimatisierung planen ✓ DIN-Normen ✓ Förderungen ✓ Kosten & Tipps ✓ Professionelle Planung ✓ Jetzt informieren!',
+            slug: 'barrierefreie-solaranlage-planen',
+            title: 'Barrierefreie Solaranlage planen: Ratgeber & Förderungen 2025',
+            description: 'Barrierefreie Solaranlage planen ✓ DIN-Normen ✓ Förderungen ✓ Kosten & Tipps ✓ Professionelle Planung ✓ Jetzt informieren!',
             defaultImage: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
           }
         ];
@@ -157,8 +156,8 @@ const Index = () => {
   }, []);
 
   const benefits = [
-    "Geprüfte Klimaanlagen-Experten aus deiner Region",
-    "Bis zu 20% staatliche Förderung für Klimaanlagen",
+    "Geprüfte Solar-Experten aus deiner Region",
+    "Bis zu 30% staatliche Förderung für Solaranlagen",
     "Kostenlose Beratung & Planung",
     "5 Jahre Garantie auf Installation und Service"
   ];
@@ -171,8 +170,8 @@ const Index = () => {
     },
     {
       icon: Wind,
-      title: "Effiziente Klimatisierung",
-      description: "Wir setzen auf moderne, energiesparende Klimaanlagen."
+      title: "Effiziente Photovoltaik",
+      description: "Wir setzen auf moderne, energiesparende Solaranlagen."
     },
     {
       icon: User,
@@ -188,11 +187,11 @@ const Index = () => {
 
   const faqs = [
     {
-      question: "Wie lange dauert die Installation einer Klimaanlage?",
+      question: "Wie lange dauert die Installation einer Solaranlage?",
       answer: "Die Installation dauert in der Regel 1 bis 3 Tage, abhängig vom Umfang und den baulichen Gegebenheiten."
     },
     {
-      question: "Was kostet eine Klimaanlage?",
+      question: "Was kostet eine Solaranlage?",
       answer: "Die Kosten variieren je nach Modell, Leistung und Einbauaufwand. Eine erste Kostenschätzung erhalten Sie in unserem kostenlosen Beratungsgespräch."
     },
     {
@@ -200,13 +199,13 @@ const Index = () => {
       answer: "Ja, wir bieten eine 5-jährige Garantie auf die Installation und den Service. Ihre Zufriedenheit und die Qualität unserer Arbeit stehen an erster Stelle."
     },
     {
-      question: "Wie läuft die Planung für meine Klimaanlage ab?",
-      answer: "Nach Ihrer Anfrage führen wir eine kostenlose Erstberatung durch. Anschließend planen unsere Experten die optimale Lösung für Ihre Räume und erstellen ein transparentes Angebot."
+      question: "Wie läuft die Planung für meine Solaranlage ab?",
+      answer: "Nach Ihrer Anfrage führen wir eine kostenlose Erstberatung durch. Anschließend planen unsere Experten die optimale Lösung für Ihre Photovoltaik-Anlage und erstellen ein transparentes Angebot."
     }
   ];
 
   const handleCTAClick = () => {
-    window.open('https://app.klimahero24.de', '_blank');
+    window.open('https://app.sonnenhelden24.de', '_blank');
   };
 
   return (
@@ -216,24 +215,24 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <a href="/" className="hover:opacity-80 transition-opacity">
             <img 
-              src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimahero%20500x150%20mit%20rand.svg-Y1m6F1I7ZDarnjJjrTecyw5H1UnK3u.svg"
-              alt="klimahero24 Logo"
+              src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Sonnenhelden24%20Logo%20SVG%20orange%20Text%20%28quer%29-1nQw6Qw7Qw7Qw7Qw7Qw7Qw.svg"
+              alt="sonnenhelden24 Logo"
               className="h-8 sm:h-10"
             />
           </a>
           <div className="flex items-center space-x-2">
             <Button 
-              className="sm:hidden bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full transition-all duration-300 hover:scale-105"
+              className="sm:hidden bg-yellow-100 hover:bg-yellow-200 text-yellow-800 px-4 py-2 rounded-full transition-all duration-300 hover:scale-105"
               onClick={handleCTAClick}
             >
-              Klimaanlage anfragen
+              Solaranlage anfragen
             </Button>
             <Button 
               className="hidden sm:flex bg-primary hover:bg-primary/80 text-primary-foreground px-6 py-2 rounded-full transition-all duration-300 hover:scale-105"
               onClick={handleCTAClick}
             >
               <Phone className="w-4 h-4 mr-2" />
-              Beratung anfragen
+              Solar-Beratung anfragen
             </Button>
           </div>
         </div>
@@ -246,11 +245,10 @@ const Index = () => {
             <div className="space-y-8 animate-fade-in">
               <div className="space-y-4">
                 <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                  Dein <span className="text-primary">Klima-Komfort</span> 
-                  <br />für Zuhause & Büro
+                  Die Energiewende für dein Zuhause
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
-                  Moderne Klimaanlagen – individuell geplant, professionell installiert und staatlich gefördert.
+                  Mit Solaranlagen von sonnenhelden24 produzierst du deinen eigenen Strom – nachhaltig, unabhängig und individuell geplant.
                 </p>
               </div>
 
@@ -269,7 +267,7 @@ const Index = () => {
                   className="bg-primary hover:bg-primary/80 text-primary-foreground px-8 py-4 rounded-full text-lg transition-all duration-300 hover:scale-105 hover:shadow-lg"
                   onClick={handleCTAClick}
                 >
-                  Jetzt Beratung anfragen
+                  Jetzt Solar-Beratung anfragen
                 </Button>
                 <Button 
                   variant="outline" 
@@ -287,15 +285,15 @@ const Index = () => {
                     <Star key={i} className="w-5 h-5 text-yellow-400 fill-current" />
                   ))}
                 </div>
-                <span className="text-gray-600">4.9/5 • Über 2.500 zufriedene Kunden</span>
+                <span className="text-gray-600">4.9/5 • Über 2.500 zufriedene Solar-Kunden</span>
               </div>
             </div>
 
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-primary/40 to-primary rounded-3xl transform rotate-6 opacity-20"></div>
               <img 
-                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%203-Klimahero24.de-VrsSz2BaJQ1AZvWlhiPPJUg99cLUE1.png" 
-                alt="Moderne Klimaanlage installiert"
+                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlage/Solaranlage%20Hero%20Sonnenhelden24-2025.png" 
+                alt="Moderne Solaranlage installiert"
                 className="relative z-10 w-full h-96 lg:h-[500px] object-cover rounded-3xl shadow-2xl transition-transform duration-500 hover:scale-105"
               />
             </div>
@@ -308,10 +306,10 @@ const Index = () => {
         <div className="container mx-auto px-4 max-w-6xl">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
-              So einfach geht's zu deinem Klima-Komfort
+              So einfach geht's zu deinem Solar-Komfort
             </h2>
             <p className="text-xl text-gray-600">
-              In nur 3 Schritten zur optimalen Klimatisierung
+              In nur 3 Schritten zur optimalen Solaranlage
             </p>
           </div>
 
@@ -320,20 +318,20 @@ const Index = () => {
               {
                 step: "1",
                 title: "Anfrage stellen",
-                description: "Beschreibe deine Wünsche und erhalte eine kostenlose Erstberatung",
+                description: "Beschreibe deine Wünsche und erhalte eine kostenlose Solar-Erstberatung",
                 icon: "📝"
               },
               {
                 step: "2", 
                 title: "Planung & Angebot",
-                description: "Unsere Experten planen deine Klimaanlage und prüfen Fördermöglichkeiten",
+                description: "Unsere Experten planen deine Solaranlage und prüfen Fördermöglichkeiten",
                 icon: "📐"
               },
               {
                 step: "3",
                 title: "Installation",
-                description: "Fachgerechte Installation durch geprüfte Experten aus deiner Region",
-                icon: "❄️"
+                description: "Fachgerechte Installation durch geprüfte Solar-Experten aus deiner Region",
+                icon: "☀"
               }
             ].map((item, index) => (
               <div key={index} className="text-center group hover:transform hover:scale-105 transition-all duration-300 scroll-reveal" style={{transitionDelay: `${index * 100}ms`}}>
@@ -356,10 +354,10 @@ const Index = () => {
         <div className="container mx-auto px-4 max-w-6xl">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
-              Ihre Vorteile mit klimahero24
+              Ihre Vorteile mit sonnenhelden24
             </h2>
             <p className="text-xl text-gray-600">
-              Wir machen Ihre Klimatisierung einfach, sicher und transparent.
+              Wir machen Ihre Solaranlage einfach, sicher und transparent.
             </p>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -388,10 +386,10 @@ const Index = () => {
         <div className="container mx-auto px-4 max-w-6xl">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
-              Ratgeber & Tipps für dein Klima
+              Ratgeber & Tipps für deine Solaranlage
             </h2>
             <p className="text-xl text-gray-600">
-              Erfahre alles Wichtige rund um Klimaanlagen, Kosten und Trends
+              Erfahre alles Wichtige rund um Solaranlagen, Kosten und Trends
             </p>
           </div>
 
@@ -441,10 +439,10 @@ const Index = () => {
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
-              Häufig gestellte Fragen
+              Häufig gestellte Fragen zu Solaranlagen
             </h2>
             <p className="text-xl text-gray-600">
-              Antworten auf die wichtigsten Fragen rund um Ihre Klimatisierung.
+              Antworten auf die wichtigsten Fragen rund um Ihre Solaranlage.
             </p>
           </div>
           <Accordion type="single" collapsible className="w-full">
@@ -485,7 +483,7 @@ const Index = () => {
             className="bg-white text-orange-600 hover:bg-gray-100 px-12 py-4 rounded-full text-lg transition-all duration-300 hover:scale-105 hover:shadow-xl font-bold"
             onClick={handleCTAClick}
           >
-            Jetzt Klimaanlage anfragen
+            Jetzt Solaranlage anfragen
           </Button>
         </div>
       </section>
@@ -496,17 +494,17 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <img 
-                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimahero%20500x150%20wei%C3%9Fe%20schrift%20%283%29-e52237wmU5o7xtsip9xZGDtood5wgR.svg"
-                alt="klimahero24 Logo"
+                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Sonnenhelden24%20Logo%20SVG%20orange%20Text%20%28quer%29-1nQw6Qw7Qw7Qw7Qw7Qw7Qw.svg"
+                alt="sonnenhelden24 Logo"
                 className="h-8 mb-4"
               />
-              <p className="text-gray-400">Dein Partner für moderne Klimaanlagen in ganz Deutschland.</p>
+              <p className="text-gray-400">Dein Partner für moderne Solaranlagen in ganz Deutschland.</p>
             </div>
             <div>
               <h4 className="font-semibold mb-4">Services</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><a href="/klimatisierung" className="hover:text-white transition-colors">Klimatisierung</a></li>
-                <li><a href="/klimaanlage" className="hover:text-white transition-colors">Klimaanlage</a></li>
+                <li><a href="/solaranlagen" className="hover:text-white transition-colors">Solaranlagen</a></li>
+                <li><a href="/photovoltaik" className="hover:text-white transition-colors">Photovoltaik</a></li>
                 <li><a href="/ratgeber" className="hover:text-white transition-colors">Ratgeber</a></li>
               </ul>
             </div>
@@ -522,12 +520,12 @@ const Index = () => {
               <h4 className="font-semibold mb-4">Kontakt</h4>
               <p className="text-gray-400">
                 <span className="block">📞 0800 123 456 789</span>
-                <span className="block">✉️ info@klimahero24.de</span>
+                <span className="block">✉️ info@sonnenhelden24.de</span>
               </p>
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 klimahero24. Alle Rechte vorbehalten.</p>
+            <p>&copy; 2025 sonnenhelden24. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </footer>

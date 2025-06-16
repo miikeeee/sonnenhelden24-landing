@@ -1,0 +1,79 @@
+{
+  "slug": "boenen",
+  "title": "Solaranlage Bönen | Photovoltaik, Preise & Beratung | sonnenhelden24.de",
+  "metaDescription": "Solaranlage Bönen ✓ Lokale Solar-Fachfirmen ✓ Photovoltaik ab 6.000€ ✓ Regionale Beratung ✓ Effiziente Stromerzeugung für Ihr Zuhause oder Unternehmen ✓ sonnenhelden24.de – Ihr Solar-Experte für Bönen!",
+  "h1": "Solaranlage Bönen: Regionale Photovoltaik-Experten & Beratung",
+  "heroText": "Sonnenenergie für Bönen: Finden Sie die passende Solaranlage für Ihr Zuhause oder Unternehmen. Wir vermitteln geprüfte Solar-Fachfirmen aus Ihrer Region und bieten Ihnen Wissen, Preise und Tipps rund um moderne Photovoltaik.",
+  "heroImage": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/B%C3%B6nen-oAwscoSLAAKq6AQlRovZA8MfPlCrMn.png",
+  "location": "Bönen",
+  "sections": [
+    {
+      "heading": "Solaranlagen Bönen – Regional, effizient, zukunftssicher",
+      "text": "Ob Altbau oder Neubau: Unsere lokalen Partner in Bönen kennen die Anforderungen und bieten maßgeschneiderte Photovoltaik-Lösungen für Ihre Immobilie.",
+      "image": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Solaranlage Bönen Kosten – Transparent & fair",
+      "text": "Die Kosten für eine Solaranlage in Bönen beginnen bei etwa 6.000€ für kleine Photovoltaik-Anlagen. Unsere Solar-Fachfirmen beraten Sie zu Fördermöglichkeiten und erstellen Ihnen ein transparentes Angebot.",
+      "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Fachfirmen für Solaranlagen in Bönen finden",
+      "text": "Wir vermitteln Ihnen geprüfte Solar-Fachfirmen aus Bönen. Ob Installation, Wartung oder Erweiterung – unsere Partner bieten schnellen Service und regionale Erfahrung.",
+      "image": "https://images.unsplash.com/photo-1744869524920-f0efc925b82f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Photovoltaik für Altbau & Neubau in Bönen",
+      "text": "Die Architektur in Bönen ist vielfältig. Unsere Experten beraten Sie individuell, welche Solaranlage zu Ihrem Objekt passt – leistungsstark, langlebig und optisch ansprechend.",
+      "image": "https://images.unsplash.com/photo-1722858810036-e917b4dd3f3f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    }
+  ],
+  "processSection": {
+    "heading": "Ihr Weg zur Solaranlage in Bönen",
+    "subheading": "So einfach funktioniert die Vermittlung und Installation durch sonnenhelden24.de:",
+    "steps": [
+      {
+        "icon": "PhoneOutgoing",
+        "title": "Kostenlose Solar-Erstberatung",
+        "description": "Kontaktieren Sie uns für eine unverbindliche Beratung zur Solaranlage in Bönen."
+      },
+      {
+        "icon": "Home",
+        "title": "Vor-Ort-Termin in Bönen",
+        "description": "Ein regionaler Solar-Experte besucht Sie und prüft die Gegebenheiten vor Ort."
+      },
+      {
+        "icon": "FileText",
+        "title": "Individuelles Angebot",
+        "description": "Sie erhalten ein transparentes Festpreisangebot für Ihre neue Photovoltaik-Anlage."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Fachgerechte Installation",
+        "description": "Die Montage erfolgt durch erfahrene Solar-Profis aus Bönen und Umgebung."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Was kostet eine Solaranlage in Bönen?",
+      "answer": "Eine kleine Photovoltaik-Anlage in Bönen gibt es ab ca. 6.000€. Je nach Anforderungen und Ausstattung kann der Preis variieren. Unsere Partner beraten Sie individuell."
+    },
+    {
+      "question": "Wie finde ich einen Solar-Fachbetrieb in Bönen?",
+      "answer": "Wir vermitteln Ihnen geprüfte und erfahrene Solar-Fachfirmen aus Bönen und Umgebung – für Beratung, Installation und Wartung."
+    },
+    {
+      "question": "Gibt es Förderungen für Solaranlagen in Bönen?",
+      "answer": "Ja, es gibt verschiedene Förderprogramme. Unsere Experten beraten Sie zu den aktuellen Möglichkeiten und unterstützen bei der Antragstellung."
+    },
+    {
+      "question": "Wie läuft die Installation ab?",
+      "answer": "Nach der Beratung und Angebotserstellung erfolgt ein Vor-Ort-Termin. Anschließend wird die Solaranlage fachgerecht installiert und in Betrieb genommen."
+    }
+  ],
+  "cta": {
+    "text": "Jetzt Solar-Beratung anfragen",
+    "url": "https://app.sonnenhelden24.de"
+  }
+}

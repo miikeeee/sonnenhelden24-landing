@@ -4,12 +4,12 @@ import { Button } from "@/components/ui/button";
 
 const AgbPage = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-blue-50">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-yellow-50">
       {/* Header */}
       <header className="bg-white/95 backdrop-blur-sm shadow-sm">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-2xl font-bold text-blue-600">
-            klimahero24
+          <div className="text-2xl font-bold text-yellow-600">
+            sonnenhelden24
           </div>
           <Link to="/">
             <Button variant="outline" className="flex items-center gap-2">
@@ -26,30 +26,30 @@ const AgbPage = () => {
           <h1 className="text-4xl font-bold text-gray-900 mb-8">Allgemeine Geschäftsbedingungen</h1>
           <div className="prose prose-lg max-w-none space-y-6">
             <p className="text-gray-700 mb-6">
-              für die Nutzung von klimahero24.de<br />
+              für die Nutzung von sonnenhelden24.de<br />
               <strong>Stand: 15. Juni 2025</strong>
             </p>
 
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">1. Anbieterinformationen</h2>
               <p className="text-gray-700 mb-4">
-                klimahero24.de ist ein Angebot von:
+                sonnenhelden24.de ist ein Angebot von:
               </p>
               <div className="text-gray-700 bg-gray-50 p-4 rounded-lg">
                 <p className="mb-1">Mike Mildenberger</p>
                 <p className="mb-1">Rosenweg 21</p>
                 <p className="mb-1">53604 Bad Honnef</p>
-                <p>E-Mail: info@klimahero24.de</p>
+                <p>E-Mail: info@sonnenhelden24.de</p>
               </div>
             </section>
 
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">2. Geltungsbereich und Vertragsgegenstand</h2>
               <p className="text-gray-700 mb-4">
-                <strong>(1)</strong> Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Nutzer der Webseite www.klimahero24.de und regeln die Bedingungen der Nutzung sowie die angebotenen Vermittlungsleistungen.
+                <strong>(1)</strong> Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Nutzer der Webseite www.sonnenhelden24.de und regeln die Bedingungen der Nutzung sowie die angebotenen Vermittlungsleistungen.
               </p>
               <p className="text-gray-700 mb-4">
-                <strong>(2)</strong> Die Webseite dient der Leadgenerierung und -vermittlung. Nutzer können über bereitgestellte Formulare Angaben zu geplanten Klimaanlagen- oder Klimatisierungsvorhaben machen, die nach ihrer Zustimmung an ausgewählte, externe Dienstleister weitergeleitet werden. Es kommt kein Vertrag über eine handwerkliche Leistung mit klimahero24.de zustande.
+                <strong>(2)</strong> Die Webseite dient der Leadgenerierung und -vermittlung. Nutzer können über bereitgestellte Formulare Angaben zu geplanten Solaranlagen- oder Photovoltaikvorhaben machen, die nach ihrer Zustimmung an ausgewählte, externe Dienstleister weitergeleitet werden. Es kommt kein Vertrag über eine handwerkliche Leistung mit sonnenhelden24.de zustande.
               </p>
               <p className="text-gray-700 mb-4">
                 <strong>(3)</strong> Die Vermittlung erfolgt ausschließlich auf Grundlage dieser AGB. Abweichende Bedingungen gelten nur, wenn sie durch den Betreiber schriftlich bestätigt wurden.
@@ -57,9 +57,9 @@ const AgbPage = () => {
             </section>
 
             <section>
-              <h2 className="text-2xl font-semibold text-gray-900 mb-4">3. Leistungen von klimahero24.de</h2>
+              <h2 className="text-2xl font-semibold text-gray-900 mb-4">3. Leistungen von sonnenhelden24.de</h2>
               <p className="text-gray-700 mb-4">
-                <strong>(1)</strong> klimahero24.de vermittelt auf Anfrage den Kontakt zwischen interessierten Endkunden (Nutzern) und ausgewählten Dienstleistern, insbesondere im Bereich Klimaanlagen, Klimatisierung und vergleichbare handwerkliche Leistungen.
+                <strong>(1)</strong> sonnenhelden24.de vermittelt auf Anfrage den Kontakt zwischen interessierten Endkunden (Nutzern) und ausgewählten Dienstleistern, insbesondere im Bereich Solaranlagen, Photovoltaik und vergleichbare handwerkliche Leistungen.
               </p>
               <p className="text-gray-700 mb-4">
                 <strong>(2)</strong> Die Vermittlung erfolgt auf Basis der im Formular übermittelten Angaben. Diese werden nach explizitem Einverständnis der Nutzer an geeignete Partnerunternehmen übermittelt.
@@ -75,13 +75,13 @@ const AgbPage = () => {
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">4. Keine Beratung und keine eigene Leistungserbringung</h2>
               <p className="text-gray-700 mb-4">
-                <strong>(1)</strong> klimahero24.de erbringt keine handwerklichen Dienstleistungen, Beratungen oder technische Planungen. Der Betreiber ist ausschließlich für die Vermittlung von Kontakten zuständig.
+                <strong>(1)</strong> sonnenhelden24.de erbringt keine handwerklichen Dienstleistungen, Beratungen oder technische Planungen. Der Betreiber ist ausschließlich für die Vermittlung von Kontakten zuständig.
               </p>
               <p className="text-gray-700 mb-4">
                 <strong>(2)</strong> Vertragsverhältnisse über handwerkliche oder technische Leistungen kommen ausschließlich zwischen dem vermittelten Dienstleister und dem Nutzer zustande.
               </p>
               <p className="text-gray-700 mb-4">
-                <strong>(3)</strong> klimahero24.de wird nicht Vertragspartner und übernimmt keine Gewährleistung, Haftung oder Verantwortung für Leistungen oder Aussagen der vermittelten Dienstleister.
+                <strong>(3)</strong> sonnenhelden24.de wird nicht Vertragspartner und übernimmt keine Gewährleistung, Haftung oder Verantwortung für Leistungen oder Aussagen der vermittelten Dienstleister.
               </p>
             </section>
 
@@ -130,7 +130,7 @@ const AgbPage = () => {
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">8. Keine Erfolgsgarantie</h2>
               <p className="text-gray-700 mb-4">
-                <strong>(1)</strong> klimahero24.de übernimmt keine Garantie dafür, dass:
+                <strong>(1)</strong> sonnenhelden24.de übernimmt keine Garantie dafür, dass:
               </p>
               <ul className="list-disc pl-6 text-gray-700 mb-4">
                 <li>ein geeigneter Anbieter zur Verfügung steht,</li>
@@ -162,7 +162,7 @@ const AgbPage = () => {
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">10. Geistiges Eigentum und Nutzung der Inhalte</h2>
               <p className="text-gray-700 mb-4">
-                <strong>(1)</strong> Alle Inhalte auf klimahero24.de, wie Texte, Bilder, Grafiken, Logos und Layouts, sind urheberrechtlich geschützt.
+                <strong>(1)</strong> Alle Inhalte auf sonnenhelden24.de, wie Texte, Bilder, Grafiken, Logos und Layouts, sind urheberrechtlich geschützt.
               </p>
               <p className="text-gray-700 mb-4">
                 <strong>(2)</strong> Eine Nutzung außerhalb des bestimmungsgemäßen Gebrauchs ist untersagt. Eine Vervielfältigung, Verbreitung oder kommerzielle Nutzung bedarf der ausdrücklichen Zustimmung des Betreibers.

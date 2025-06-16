@@ -5,16 +5,16 @@ const RatgeberFooter = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 mb-6 sm:mb-8">
           <div className="sm:col-span-2 lg:col-span-1">
             <img 
-              src="https://klimahero24.de/favicon.svg"
-              alt="klimahero24 Logo"
+              src="/favicon.ico"
+              alt="sonnenhelden24 Logo"
               className="h-8 mb-4"
             />
-            <p className="text-gray-400 text-sm sm:text-base">Dein Partner für moderne Klimaanlagen in ganz Deutschland.</p>
+            <p className="text-gray-400 text-sm sm:text-base">Dein Partner für moderne Solaranlagen und Photovoltaik in ganz Deutschland.</p>
           </div>
           <div>
             <h4 className="font-semibold mb-3 sm:mb-4 text-sm sm:text-base">Services</h4>
             <ul className="space-y-1 sm:space-y-2 text-gray-400 text-sm sm:text-base">
-              <li><a href="/klimatisierung" className="hover:text-white transition-colors">Klimatisierung</a></li>
+              <li><a href="/solaranlagen" className="hover:text-white transition-colors">Solaranlagen</a></li>
               <li><a href="/ratgeber" className="hover:text-white transition-colors">Ratgeber</a></li>
             </ul>
           </div>
@@ -29,12 +29,12 @@ const RatgeberFooter = () => {
           <div>
             <h4 className="font-semibold mb-3 sm:mb-4 text-sm sm:text-base">Kontakt</h4>
             <p className="text-gray-400 text-sm sm:text-base">
-              <span className="block">✉️ info@klimahero24.de</span>
+              <span className="block">✉️ info@sonnenhelden24.de</span>
             </p>
           </div>
         </div>
         <div className="border-t border-gray-800 pt-6 sm:pt-8 text-center text-gray-400 text-sm sm:text-base">
-          <p>&copy; 2024 klimahero24. Alle Rechte vorbehalten.</p>
+          <p>&copy; 2024 sonnenhelden24. Alle Rechte vorbehalten.</p>
         </div>
       </div>
     </footer>

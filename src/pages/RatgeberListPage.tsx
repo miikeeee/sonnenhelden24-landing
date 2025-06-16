@@ -20,66 +20,66 @@ const RatgeberListPage = () => {
     const loadArticles = () => {
       const ratgeberArticles = [
         {
-          slug: "klimaanlagen-trends-2025",
-          title: "Klimaanlagen Trends 2025",
-          description: "Die wichtigsten Trends für moderne Klimaanlagen und smarte Lösungen für dein Zuhause.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%202-Klimahero24.de-5jOC1sYLOXEoXBy4hArovHuHU8woWo.png",
+          slug: "solaranlagen-trends-2025",
+          title: "Solaranlagen Trends 2025",
+          description: "Die wichtigsten Trends für moderne Solaranlagen und smarte Photovoltaik-Lösungen für dein Zuhause.",
+          image: "https://sonnenhelden24.de/assets/solar-trend-2025.png",
           readTime: "11 Min. Lesezeit"
         },
         {
-          slug: "klimaanlagen-design-trends-2025",
-          title: "Klimaanlagen Design Trends 2025",
-          description: "Moderne Designs, neue Materialien und Smart-Home-Innovationen für Klimaanlagen.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%205-Klimahero24.de-62pt7rgEA7wQpfoVxfhIapI7GBt3mW.png",
+          slug: "solaranlagen-design-trends-2025",
+          title: "Solaranlagen Design Trends 2025",
+          description: "Moderne Designs, neue Materialien und Smart-Home-Innovationen für Solaranlagen.",
+          image: "https://sonnenhelden24.de/assets/solar-design-2025.png",
           readTime: "13 Min. Lesezeit"
         },
         {
-          slug: "moderne-klimaanlagen-2025",
-          title: "Moderne Klimaanlagen 2025",
-          description: "Technik, Trends und smarte Lösungen für moderne Klimaanlagen im Überblick.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%205-Klimahero24.de-62pt7rgEA7wQpfoVxfhIapI7GBt3mW.png",
+          slug: "moderne-solaranlagen-2025",
+          title: "Moderne Solaranlagen 2025",
+          description: "Technik, Trends und smarte Lösungen für moderne Photovoltaik im Überblick.",
+          image: "https://sonnenhelden24.de/assets/solar-modern-2025.png",
           readTime: "16 Min. Lesezeit"
         },
         {
-          slug: "klimaanlage-kosten-2025",
-          title: "Klimaanlage Kosten 2025",
-          description: "Was kostet eine Klimaanlage wirklich? Preisüberblick, Spartipps und Förderungen.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%20Inbetriebnahme-Klimahero24.de-foyKUTDQ0GI7jyil2S4GMo3jDGyZXo.png",
+          slug: "solaranlage-kosten-2025",
+          title: "Solaranlage Kosten 2025",
+          description: "Was kostet eine Solaranlage wirklich? Preisüberblick, Spartipps und Förderungen.",
+          image: "https://sonnenhelden24.de/assets/solar-kosten-2025.png",
           readTime: "12 Min. Lesezeit"
         },
         {
-          slug: "klimaanlage-nachruesten-kosten",
-          title: "Klimaanlage nachrüsten Kosten",
-          description: "Alle Kosten, Förderungen und Tipps für das Nachrüsten einer Klimaanlage.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/air-conditioner-8810313_1920-jRid4xLkgS12Tpru8d5Cp7GHnb8pMg.jpg",
+          slug: "solaranlage-nachruesten-kosten",
+          title: "Solaranlage nachrüsten Kosten",
+          description: "Alle Kosten, Förderungen und Tipps für das Nachrüsten einer Solaranlage.",
+          image: "https://sonnenhelden24.de/assets/solar-nachruesten-2025.png",
           readTime: "12 Min. Lesezeit"
         },
         {
-          slug: "barrierefreie-klimatisierung-planen",
-          title: "Barrierefreie Klimatisierung planen",
-          description: "Sichere und komfortable Klimatisierung für alle Lebensphasen – inkl. Förderungen.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/air-conditioner-9023086_1920-caPN1oMobYa8w5SizFKV8MyJ2kyhcI.jpg",
-          readTime: "16 Min. Lesezeit"
+          slug: "barrierefreie-solarplanung",
+          title: "Barrierefreie Solarplanung",
+          description: "Sichere und komfortable Solarenergie für alle Lebensphasen – inkl. Förderungen.",
+          image: "https://sonnenhelden24.de/assets/solar-barrierefrei-2025.png",
+          readTime: "10 Min. Lesezeit"
         },
         {
-          slug: "kleine-raeume-effizient-kuehlen",
-          title: "Kleine Räume effizient kühlen",
-          description: "Tipps und clevere Lösungen für die Klimatisierung kleiner Räume.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%207-Klimahero24.de-WDSu1svsDkVEPftg8DhqYZBHHHw0He.png",
+          slug: "kleine-daecher-effizient-nutzen",
+          title: "Kleine Dächer effizient nutzen",
+          description: "Tipps und clevere Lösungen für die Installation von Solaranlagen auf kleinen Dächern.",
+          image: "https://sonnenhelden24.de/assets/solar-kleine-daechern.png",
           readTime: "14 Min. Lesezeit"
         },
         {
-          slug: "klimatisierung-ohne-aussengerat",
-          title: "Klimatisierung ohne Außengerät",
-          description: "Moderne Alternativen für Wohnungen und Denkmalschutz: Vor- und Nachteile im Überblick.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%20Schlafzimmer%20-Klimahero24.de-fkO0pqKHstYNahSal4KwxPOSFK0DfL.jpg",
+          slug: "photovoltaik-ohne-foerderung",
+          title: "Photovoltaik ohne Förderung",
+          description: "Ist die Installation einer Photovoltaikanlage ohne staatliche Förderung sinnvoll?",
+          image: "https://sonnenhelden24.de/assets/solar-ohne-foerderung.png",
           readTime: "15 Min. Lesezeit"
         },
         {
-          slug: "klimaanlage-einbau-dauer",
-          title: "Klimaanlage Einbau Dauer",
+          slug: "solaranlage-einbau-dauer",
+          title: "Solaranlage Einbau Dauer",
           description: "Wie lange dauert die Installation? Tipps für eine reibungslose Planung und Zeitersparnis.",
-          image: "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Klimaanlage/Klimaanlage%20Monteur%20drau%C3%9Fen-Klimahero24.de-DImwjnTFcvio8SmDUIbxWDPCw0HDjj.png",
+          image: "https://sonnenhelden24.de/assets/solar-einbau-dauer.png",
           readTime: "9 Min. Lesezeit"
         },
         {

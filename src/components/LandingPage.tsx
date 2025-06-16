@@ -73,7 +73,7 @@ const LandingPage = ({ data }: LandingPageProps) => {
   };
 
   const handleCTAClick = () => {
-    window.open('https://app.klimahero24.de', '_blank');
+    window.open('https://app.sonnenhelden24.de', '_blank');
   };
 
   const IconComponent = ({ name, ...props }: { name: keyof typeof import("lucide-react").icons } & React.ComponentProps<typeof ArrowRight>) => {
@@ -89,24 +89,24 @@ const LandingPage = ({ data }: LandingPageProps) => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <a href="/" className="hover:opacity-80 transition-opacity">
             <img 
-              src="https://klimahero24.de/favicon.svg"
-              alt="klimahero24 Logo"
+              src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Sonnenhelden24%20Logo%20SVG%20orange%20Text%20%28quer%29-1nQw6Qw7Qw7Qw7Qw7Qw7Qw.svg"
+              alt="sonnenhelden24 Logo"
               className="h-8 sm:h-10"
             />
           </a>
           <div className="flex items-center space-x-2">
             <Button 
-              className="sm:hidden bg-gray-100 hover:bg-gray-200 text-gray-800 px-4 py-2 rounded-full transition-all duration-300 hover:scale-105"
+              className="sm:hidden bg-yellow-100 hover:bg-yellow-200 text-yellow-800 px-4 py-2 rounded-full transition-all duration-300 hover:scale-105"
               onClick={handleCTAClick}
             >
-              Klimaanlage anfragen
+              Solaranlage anfragen
             </Button>
             <Button 
-              className="hidden sm:flex bg-orange-500 hover:bg-orange-600 text-white px-6 py-2 rounded-full transition-all duration-300 hover:scale-105"
+              className="hidden sm:flex bg-primary hover:bg-primary/80 text-primary-foreground px-6 py-2 rounded-full transition-all duration-300 hover:scale-105"
               onClick={handleCTAClick}
             >
               <Phone className="w-4 h-4 mr-2" />
-              Beratung anfragen
+              Solar-Beratung anfragen
             </Button>
           </div>
         </div>
@@ -131,10 +131,9 @@ const LandingPage = ({ data }: LandingPageProps) => {
               </div>
 
               <div className="space-y-2 sm:space-y-3">
-                {[
-                  "Geprüfte Klimaanlagen-Experten aus deiner Region",
-                  "Bis zu 20% staatliche Förderung",
-                  "Kostenlose Vor-Ort-Beratung",
+                {["Geprüfte Solar-Experten aus deiner Region",
+                  "Bis zu 30% staatliche Förderung",
+                  "Kostenlose Beratung & Planung",
                   "5 Jahre Garantie auf alle Arbeiten"
                 ].map((benefit, index) => (
                   <div key={index} className="flex items-center space-x-3 animate-fade-in" style={{animationDelay: `${index * 100}ms`}}>
@@ -168,7 +167,7 @@ const LandingPage = ({ data }: LandingPageProps) => {
                     <Star key={i} className="w-4 sm:w-5 h-4 sm:h-5 text-yellow-400 fill-current" />
                   ))}
                 </div>
-                <span className="text-gray-600 text-center sm:text-left text-sm sm:text-base">4.9/5 • Über 2.500 zufriedene Kunden</span>
+                <span className="text-gray-600 text-center sm:text-left text-sm sm:text-base">4.9/5 • Über 2.500 zufriedene Solar-Kunden</span>
               </div>
             </div>
 
@@ -176,7 +175,7 @@ const LandingPage = ({ data }: LandingPageProps) => {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-blue-600 rounded-3xl transform rotate-6 opacity-20"></div>
               <img 
                 src={data.heroImage || "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"}
-                alt={`Klimaanlage ${data.location || ''}`}
+                alt={`Solaranlage ${data.location || ''}`}
                 className="relative z-10 w-full h-64 sm:h-80 lg:h-96 xl:h-[500px] object-cover rounded-3xl shadow-2xl transition-transform duration-500 hover:scale-105"
               />
             </div>
@@ -360,10 +359,10 @@ const LandingPage = ({ data }: LandingPageProps) => {
       <section className="py-12 sm:py-16 bg-gradient-to-r from-orange-500 to-orange-600 overflow-hidden">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4 sm:mb-6">
-            Bereit für deine neue Klimaanlage?
+            Bereit für deine neue Solaranlage?
           </h2>
           <p className="text-lg sm:text-xl text-orange-100 mb-6 sm:mb-8 max-w-2xl mx-auto">
-            Lass dich kostenlos beraten und erfahre, wie viel Förderung du erhalten kannst.
+            Lass dich kostenlos beraten und erfahre, wie viel Förderung du für deine Solaranlage erhalten kannst.
           </p>
           <Button 
             size="lg" 
@@ -406,12 +405,12 @@ const LandingPage = ({ data }: LandingPageProps) => {
               <h4 className="font-semibold mb-3 sm:mb-4 text-sm sm:text-base">Kontakt</h4>
               <p className="text-gray-400 text-sm sm:text-base">
                 <span className="block">📞 0800 123 456 789</span>
-                <span className="block">✉️ info@klimahero24.de</span>
+                <span className="block">✉️ info@sonnenhelden24.de</span>
               </p>
             </div>
           </div>
           <div className="border-t border-gray-800 pt-6 sm:pt-8 text-center text-gray-400 text-sm sm:text-base">
-            <p>&copy; 2024 klimahero24. Alle Rechte vorbehalten.</p>
+            <p>&copy; 2025 sonnenhelden24. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </footer>

@@ -1,0 +1,109 @@
+{
+  "slug": "elbe",
+  "title": "Solaranlagen Elbe-Region | Hamburg, Dresden & Magdeburg | sonnenhelden24",
+  "metaDescription": "Solaranlagen & Photovoltaik an der Elbe ✓ Hamburg, Dresden, Magdeburg ✓ Beratung & Installation ✓ Elbregion-Solar-Experten ✓ Festpreise ✓ Von der Quelle bis zur Mündung!",
+  "h1": "Solaranlagen Elbe-Region",
+  "heroText": "Sonnige Aussichten von Hamburg bis Dresden – erleben Sie moderne Photovoltaik-Lösungen entlang der Elbe mit regionalen Solar-Experten und zuverlässigem Service.",
+  "heroImage": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Elbe-ZqB2hksgxUyTvKM6jDoGo6MQPw7u5N.png",
+  "location": "Elbe-Region",
+  "sections": [
+    {
+      "heading": "Solaranlagen entlang der Elbe – Von der Hansestadt bis zur Sächsischen Schweiz",
+      "text": "Die Elbe verbindet Norddeutschland mit dem Herzen Sachsens und bietet ideale Bedingungen für Photovoltaik. Unsere Solar-Lösungen sind so vielfältig wie die Elbregion – von der Hansestadt <a href='/solaranlagen/hamburg' class='text-yellow-600 hover:underline'>Hamburg</a> über die Kulturstadt <a href='/solaranlagen/dresden' class='text-yellow-600 hover:underline'>Dresden</a> bis zu den historischen Städten Magdeburg und Lüneburg. Wir bringen Sonnenenergie und nachhaltige Stromerzeugung in Ihr Zuhause – regional, effizient und zukunftssicher.",
+      "image": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Kosten Solaranlage Elbregion – Nord bis Süd fair",
+      "text": "Die Preise für eine Photovoltaik-Anlage beginnen an der Elbe bei etwa 7.500€ inklusive Montage. Premium-Lösungen mit Speicher und intelligenter Steuerung können bis zu 18.000€ kosten. Die Elbregion profitiert von etablierten Handwerksnetzwerken und attraktiven Konditionen.",
+      "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Solar-Fachbetriebe von der Elbmündung bis zur Quelle",
+      "text": "Von Cuxhaven über Lüneburg und Magdeburg bis nach Meißen – wir arbeiten mit qualifizierten Solar-Fachbetrieben entlang der gesamten deutschen Elbe. Ob Installation in Stade, Wartung in Wittenberg oder Beratung in Pirna – unsere Partner kennen die regionalen Besonderheiten und bieten maßgeschneiderte Solar-Lösungen.",
+      "image": "https://images.unsplash.com/photo-1744869524920-f0efc925b82f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Elbregion-Solar für Ihr Wohlfühlzuhause",
+      "text": "Die Elbregion steht für Weltoffenheit, Innovation und Naturverbundenheit. Diese Werte spiegeln sich in unseren Photovoltaik-Konzepten wider. Ob maritimes Klima in Hamburg, effiziente Solarstrom-Nutzung in Dresden oder moderne Lösungen in der Altmark – wir schaffen nachhaltige Energie, die zu Ihrer Region passt.",
+      "image": "https://images.unsplash.com/photo-1722858810036-e917b4dd3f3f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    }
+  ],
+  "processSection": {
+    "heading": "Ihr Weg zur Solaranlage an der Elbe",
+    "subheading": "Von Nord bis Süd zuverlässig – so realisieren wir Ihre Photovoltaik-Anlage in der Elbregion.",
+    "steps": [
+      {
+        "icon": "PhoneOutgoing",
+        "title": "Kostenlose Solar-Erstberatung",
+        "description": "Kontaktieren Sie uns für eine kompetente Beratung zu Ihrer Solaranlage an der Elbe."
+      },
+      {
+        "icon": "Home",
+        "title": "Regionaler Vor-Ort-Service",
+        "description": "Ein Elbregion-Solar-Experte plant mit lokaler Kompetenz Ihre individuelle Photovoltaik-Lösung."
+      },
+      {
+        "icon": "FileText",
+        "title": "Transparentes Festpreisangebot",
+        "description": "Sie erhalten ein klares Angebot mit norddeutscher Ehrlichkeit und fairen Preisen."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Fachgerechte Montage",
+        "description": "Erfahrene Solar-Fachbetriebe von der Elbe installieren Ihre Anlage zuverlässig."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Sonnenstrom garantiert",
+        "description": "Gemeinsame Abnahme Ihrer neuen Solaranlage mit 5 Jahren regionaler Garantie."
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "heading": "Ihre Vorteile mit sonnenhelden24 an der Elbe",
+    "benefits": [
+      {
+        "icon": "Users",
+        "title": "Elbregion-Solarexperten",
+        "description": "Erfahrene Solar-Fachbetriebe von Hamburg bis Dresden mit regionaler Kompetenz."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Nord-Süd-Qualität",
+        "description": "Hochwertige Photovoltaik-Anlagen und bewährte Handwerkskunst entlang der Elbe."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Elbregion-faire Preise",
+        "description": "Attraktive Preise durch etablierte Netzwerke von der Mündung bis zur Quelle."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Komplette Elbregion",
+        "description": "Von Schleswig-Holstein über Niedersachsen bis nach Sachsen an der Elbe."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Was kostet eine Solaranlage an der Elbe?",
+      "answer": "Eine Standard-Photovoltaik-Anlage beginnt bei etwa 7.500€ inklusive Montage. Je nach Region, Dachfläche und Ausstattung können die Kosten bis zu 18.000€ betragen. Die Elbregion bietet sehr gute Preise durch etablierte Handwerksnetzwerke."
+    },
+    {
+      "question": "Arbeiten Sie entlang der gesamten deutschen Elbe?",
+      "answer": "Ja, von Hamburg über Magdeburg bis Dresden und in alle Städte und Gemeinden entlang der Elbe. Unsere Solar-Partner decken die komplette deutsche Elbregion ab."
+    },
+    {
+      "question": "Berücksichtigen Sie regionale Unterschiede?",
+      "answer": "Selbstverständlich. Unsere Partner kennen die Besonderheiten von norddeutschen Backsteinbauten bis zu sächsischen Gründerzeithäusern entlang der Elbe."
+    },
+    {
+      "question": "Welche Erfahrungen haben Kunden an der Elbe gemacht?",
+      "answer": "Kunden schätzen besonders die Kombination aus norddeutscher Zuverlässigkeit, sächsischer Gründlichkeit und das ausgezeichnete Preis-Leistungs-Verhältnis."
+    }
+  ],
+  "cta": {
+    "text": "Solaranlage Elbregion anfragen",
+    "url": "https://app.sonnenhelden24.de"
+  }
+}

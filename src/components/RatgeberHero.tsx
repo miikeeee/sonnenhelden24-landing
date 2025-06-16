@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { Calendar, Clock, User } from "lucide-react";
 
@@ -23,11 +22,11 @@ interface RatgeberHeroProps {
 
 const RatgeberHero = ({ data, onCTAClick }: RatgeberHeroProps) => {
   return (
-    <section className="pt-4 sm:pt-8 pb-8 sm:pb-12 bg-gradient-to-br from-slate-50 to-blue-50">
+    <section className="pt-4 sm:pt-8 pb-8 sm:pb-12 bg-gradient-to-br from-yellow-50 to-yellow-100">
       <div className="container mx-auto px-4 max-w-7xl">
         <div className="bg-white rounded-2xl shadow-sm p-6 sm:p-8 lg:p-12 relative overflow-hidden">
           {/* Background decoration */}
-          <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-blue-100 to-blue-200 rounded-full -translate-y-16 translate-x-16 opacity-50"></div>
+          <div className="absolute top-0 right-0 w-32 h-32 bg-gradient-to-br from-yellow-100 to-yellow-200 rounded-full -translate-y-16 translate-x-16 opacity-50"></div>
           <div className="absolute bottom-0 left-0 w-24 h-24 bg-gradient-to-tr from-green-100 to-green-200 rounded-full translate-y-12 -translate-x-12 opacity-50"></div>
           
           <div className="relative z-10 grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">

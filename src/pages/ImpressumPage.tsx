@@ -1,4 +1,3 @@
-
 import { ArrowLeft } from "lucide-react";
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
@@ -9,8 +8,8 @@ const ImpressumPage = () => {
       {/* Header */}
       <header className="bg-white/95 backdrop-blur-sm shadow-sm">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-2xl font-bold text-blue-600">
-            klimahero24
+          <div className="text-2xl font-bold text-yellow-600">
+            sonnenhelden24
           </div>
           <Link to="/">
             <Button variant="outline" className="flex items-center gap-2">
@@ -30,7 +29,7 @@ const ImpressumPage = () => {
             <section>
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">Angaben gemäß § 5 TMG</h2>
               <div className="text-gray-700 leading-relaxed">
-                <p>Klimahero24.de</p>
+                <p>Sonnenhelden24.de</p>
                 <p>Mike Mildenberger</p>
                 <p>Rosenweg 21</p>
                 <p className="mb-4">53604 Bad Honnef, Deutschland</p>

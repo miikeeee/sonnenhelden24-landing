@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import ContentRenderer from '@/components/ContentRenderer';
 import RatgeberSidebar from '@/components/RatgeberSidebar';
@@ -49,13 +48,13 @@ const RatgeberContent = ({ data, onCTAClick }: RatgeberContentProps) => {
               <RatgeberSidebar config={data.sidebar} />
               
               {/* Additional info box */}
-              <div className="bg-gray-50 rounded-lg p-4 sm:p-6">
-                <h3 className="font-semibold text-gray-900 mb-3">Kostenlose Fördermittelberatung und Angebote von Fachfirmen sichern</h3>
+              <div className="bg-yellow-50 rounded-lg p-4 sm:p-6">
+                <h3 className="font-semibold text-gray-900 mb-3">Kostenlose Solar-Fördermittelberatung und Angebote von Photovoltaik-Fachfirmen sichern</h3>
                 <Button 
-                  className="w-full bg-green-500 hover:bg-green-600 text-white"
+                  className="w-full bg-yellow-500 hover:bg-yellow-600 text-white"
                   onClick={onCTAClick}
                 >
-                  Jetzt Beratung anfragen
+                  Jetzt Solar-Beratung anfragen
                 </Button>
               </div>
             </div>
