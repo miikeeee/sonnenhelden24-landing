@@ -1,0 +1,109 @@
+{
+  "slug": "main",
+  "title": "Klimaanlagen Main-Region | Frankfurt, Würzburg & Bamberg | klimahero24",
+  "metaDescription": "Klimaanlagen am Main ✓ Frankfurt, Würzburg, Bamberg, Schweinfurt ✓ Kosten ab 1.950€ ✓ Fränkische Qualität ✓ Festpreise ✓ Main-Franken-Expertise!",
+  "h1": "Klimaanlagen Main-Region",
+  "heroText": "Fränkische Tradition trifft auf metropolitane Eleganz. Von Frankfurt bis Bamberg – erleben Sie professionelle Klimaanlagen-Lösungen entlang des Mains mit regionalen Experten und fränkischem Charme.",
+  "heroImage": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Main-jhI6VH8yVH1j9V06ZnxQTgcJyY1qQD.png",
+  "location": "Main-Region",
+  "sections": [
+    {
+      "heading": "Klimaanlagen entlang des Mains – Von Franken bis zur Finanzmetropole",
+      "text": "Der Main verbindet das fränkische Herz Deutschlands mit der internationalen Finanzmetropole <a href='/klimaanlagen/frankfurt' class='text-blue-600 hover:underline'>Frankfurt</a>. Diese einzigartige Mischung spiegelt sich in unseren Klimaanlagen-Lösungen wider – von der UNESCO-Welterbestadt Bamberg über die Residenzstadt Würzburg bis zur Bankenmetropole Frankfurt am Main. Als wichtige deutsche Kulturachse vereint der Main fränkische Gemütlichkeit mit cosmopolitaner Eleganz.",
+      "image": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Kosten Klimaanlage Main-Region – Fränkisch fair",
+      "text": "Die Preise für eine Split-Klimaanlage beginnen am Main bei etwa 1.950€ inklusive Montage. Premium-Lösungen können bis zu 5.500€ kosten. Die Main-Region bietet als wirtschaftsstarker hessisch-bayerischer Raum mit etablierten Klima-Fachbetrieben ausgezeichnete Qualität bei metropolitanen Standards.",
+      "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Fränkische Klima-Experten vom Fichtelgebirge bis zum Rhein",
+      "text": "Von Kulmbach über Bamberg, Würzburg und Aschaffenburg bis Frankfurt – wir arbeiten mit qualifizierten Klima-Fachbetrieben entlang des gesamten Mains. Ob Installation in Schweinfurt, Lohr, Miltenberg oder Offenbach – unsere Partner kennen die regionalen Besonderheiten von fränkischer Gastfreundschaft bis zu hessischer Effizienz.",
+      "image": "https://images.unsplash.com/photo-1744869524920-f0efc925b82f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Main-Franken-Flair für Ihr Wohlfühlklima",
+      "text": "Die Main-Region steht für Tradition, Innovation und Lebensqualität. Diese Eigenschaften fließen in jede unserer Klimaanlagen-Installationen ein. Ob fränkische Gemütlichkeit in Bamberg, Residenz-Eleganz in Würzburg oder moderne Business-Atmosphäre in Frankfurt – wir schaffen Wohlfühlklima, das zum jeweiligen Main-Charakter passt und höchste Standards erfüllt.",
+      "image": "https://images.unsplash.com/photo-1722858810036-e917b4dd3f3f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    }
+  ],
+  "processSection": {
+    "heading": "Ihr Weg zur Klimaanlage am Main",
+    "subheading": "Fränkisch herzlich und professionell – so klimatisieren wir Ihr Zuhause in der Main-Region.",
+    "steps": [
+      {
+        "icon": "PhoneOutgoing",
+        "title": "Kostenlose Erstberatung",
+        "description": "Kontaktieren Sie uns für eine fränkisch-herzliche Beratung zu Ihrer Klimaanlage."
+      },
+      {
+        "icon": "Home",
+        "title": "Main-Region Vor-Ort-Service",
+        "description": "Ein regionaler Klima-Experte plant mit Main-Kompetenz Ihr individuelles Wohlfühlklima."
+      },
+      {
+        "icon": "FileText",
+        "title": "Fränkisch faires Angebot",
+        "description": "Sie erhalten ein transparentes Angebot mit fränkischer Ehrlichkeit und fairen Preisen."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Main-Klima-Handwerkskunst",
+        "description": "Erfahrene fränkische Klima-Experten installieren Ihre Anlage zuverlässig und gründlich."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Main-Franken-Übergabe",
+        "description": "Gemeinsame Abnahme Ihrer neuen Klimaanlage mit 5 Jahren fränkischer Garantie."
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "heading": "Ihre Vorteile mit klimahero24 am Main",
+    "benefits": [
+      {
+        "icon": "Users",
+        "title": "Main-Region-Klima-Fachbetriebe",
+        "description": "Erfahrene Klima-Fachbetriebe am Main mit fränkischer Tradition und hessischer Effizienz."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Fränkische Qualität",
+        "description": "Hochwertige Markenanlagen und bewährte fränkische Handwerkskunst."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Main-faire Preise",
+        "description": "Wettbewerbsfähige Preise durch etablierte Netzwerke in der Main-Region."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Komplette Main-Region",
+        "description": "Von Bayern über Baden-Württemberg bis Hessen entlang des Mains."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Was kostet eine Klimaanlage am Main?",
+      "answer": "Eine Standard-Split-Klimaanlage beginnt bei etwa 1.950€ inklusive Montage. Je nach Ausstattung können die Kosten bis zu 5.500€ betragen. Die Main-Region bietet fränkische Qualität zu metropolitanen Standards."
+    },
+    {
+      "question": "Arbeiten Sie entlang des gesamten Mains?",
+      "answer": "Ja, von Frankfurt über Würzburg bis Bamberg und in alle Städte und Gemeinden entlang des Mains. Unsere Klima-Partner decken die komplette Main-Region ab."
+    },
+    {
+      "question": "Berücksichtigen Sie regionale Unterschiede zwischen Franken und Hessen?",
+      "answer": "Selbstverständlich. Unsere Partner kennen sowohl fränkische als auch hessische Bautradition und regionale Vorlieben in der Main-Region."
+    },
+    {
+      "question": "Welche Erfahrungen haben Kunden in der Main-Region gemacht?",
+      "answer": "Kunden schätzen besonders die fränkische Herzlichkeit kombiniert mit professioneller Abwicklung und das ausgezeichnete Preis-Leistungs-Verhältnis."
+    }
+  ],
+  "cta": {
+    "text": "Klima-Beratung Main-Region anfragen",
+    "url": "https://app.klimahero24.de"
+  }
+}

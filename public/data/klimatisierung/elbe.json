@@ -1,0 +1,109 @@
+{
+  "slug": "elbe",
+  "title": "Klimaanlagen Elbe-Region | Hamburg, Dresden & Magdeburg | klimahero24",
+  "metaDescription": "Klimaanlagen & Klimatisierung an der Elbe ✓ Hamburg, Dresden, Magdeburg ✓ Beratung & Einbau ✓ Elbregion-Experten ✓ Festpreise ✓ Von der Quelle bis zur Mündung!",
+  "h1": "Klimaanlagen Elbe-Region",
+  "heroText": "Hanseatische Frische trifft auf sächsische Innovation. Von Hamburg bis Dresden – erleben Sie moderne Klimatisierung entlang der Elbe mit regionalen Experten und zuverlässigem Service.",
+  "heroImage": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Elbe-ZqB2hksgxUyTvKM6jDoGo6MQPw7u5N.png",
+  "location": "Elbe-Region",
+  "sections": [
+    {
+      "heading": "Klimaanlagen entlang der Elbe – Von der Hansestadt bis zur Sächsischen Schweiz",
+      "text": "Die Elbe verbindet Norddeutschland mit dem Herzen Sachsens und prägt verschiedene Klimazonen. Unsere Klimaanlagen-Lösungen sind so vielfältig wie die Elbregion – von der Hansestadt <a href='/klimaanlagen/hamburg' class='text-blue-600 hover:underline'>Hamburg</a> über die Kulturstadt <a href='/klimaanlagen/dresden' class='text-blue-600 hover:underline'>Dresden</a> bis zu den historischen Städten Magdeburg und Lüneburg. Wir bringen frische Luft und Wohlfühlklima in Ihr Zuhause – regional, effizient und nachhaltig.",
+      "image": "https://images.unsplash.com/photo-1631889993959-41b4e9c6e3c5?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Kosten Klimaanlage Elbregion – Nord bis Süd fair",
+      "text": "Die Preise für eine Split-Klimaanlage beginnen an der Elbe bei etwa 1.800€ inklusive Montage. Premium-Lösungen mit smarter Steuerung und hoher Energieeffizienz können bis zu 5.500€ kosten. Die Elbregion profitiert von etablierten Handwerksnetzwerken und attraktiven Konditionen.",
+      "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Fachbetriebe von der Elbmündung bis zur Quelle",
+      "text": "Von Cuxhaven über Lüneburg und Magdeburg bis nach Meißen – wir arbeiten mit qualifizierten Klima-Fachbetrieben entlang der gesamten deutschen Elbe. Ob Installation in Stade, Wartung in Wittenberg oder Beratung in Pirna – unsere Partner kennen die regionalen Besonderheiten und bieten maßgeschneiderte Lösungen.",
+      "image": "https://images.unsplash.com/photo-1744869524920-f0efc925b82f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Elbregion-Klima für Ihr Wohlfühlzuhause",
+      "text": "Die Elbregion steht für Weltoffenheit, Innovation und Naturverbundenheit. Diese Werte spiegeln sich in unseren Klimaanlagen-Konzepten wider. Ob maritimes Klima in Hamburg, effiziente Kühlung in Dresden oder moderne Lösungen in der Altmark – wir schaffen Wohlfühlklima, das zu Ihrer Region passt.",
+      "image": "https://images.unsplash.com/photo-1722858810036-e917b4dd3f3f?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    }
+  ],
+  "processSection": {
+    "heading": "Ihr Weg zur Klimaanlage an der Elbe",
+    "subheading": "Von Nord bis Süd zuverlässig – so klimatisieren wir Ihr Zuhause in der Elbregion.",
+    "steps": [
+      {
+        "icon": "PhoneOutgoing",
+        "title": "Kostenlose Erstberatung",
+        "description": "Kontaktieren Sie uns für eine kompetente Beratung zu Ihrer Klimaanlage an der Elbe."
+      },
+      {
+        "icon": "Home",
+        "title": "Regionaler Vor-Ort-Service",
+        "description": "Ein Elbregion-Experte plant mit lokaler Kompetenz Ihre individuelle Klimatisierung."
+      },
+      {
+        "icon": "FileText",
+        "title": "Transparentes Festpreisangebot",
+        "description": "Sie erhalten ein klares Angebot mit norddeutscher Ehrlichkeit und fairen Preisen."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Fachgerechte Montage",
+        "description": "Erfahrene Klima-Fachbetriebe von der Elbe installieren Ihre Anlage zuverlässig."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Wohlfühlklima garantiert",
+        "description": "Gemeinsame Abnahme Ihrer neuen Klimaanlage mit 5 Jahren regionaler Garantie."
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "heading": "Ihre Vorteile mit klimahero24 an der Elbe",
+    "benefits": [
+      {
+        "icon": "Users",
+        "title": "Elbregion-Klimaexperten",
+        "description": "Erfahrene Klima-Fachbetriebe von Hamburg bis Dresden mit regionaler Kompetenz."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Nord-Süd-Qualität",
+        "description": "Hochwertige Markenanlagen und bewährte Handwerkskunst entlang der Elbe."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Elbregion-faire Preise",
+        "description": "Attraktive Preise durch etablierte Netzwerke von der Mündung bis zur Quelle."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Komplette Elbregion",
+        "description": "Von Schleswig-Holstein über Niedersachsen bis nach Sachsen an der Elbe."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Was kostet eine Klimaanlage an der Elbe?",
+      "answer": "Eine Standard-Split-Klimaanlage beginnt bei etwa 1.800€ inklusive Montage. Je nach Region, Raumgröße und Ausstattung können die Kosten bis zu 5.500€ betragen. Die Elbregion bietet sehr gute Preise durch etablierte Handwerksnetzwerke."
+    },
+    {
+      "question": "Arbeiten Sie entlang der gesamten deutschen Elbe?",
+      "answer": "Ja, von Hamburg über Magdeburg bis Dresden und in alle Städte und Gemeinden entlang der Elbe. Unsere Klima-Partner decken die komplette deutsche Elbregion ab."
+    },
+    {
+      "question": "Berücksichtigen Sie regionale Unterschiede?",
+      "answer": "Selbstverständlich. Unsere Partner kennen die Besonderheiten von norddeutschen Backsteinbauten bis zu sächsischen Gründerzeithäusern entlang der Elbe."
+    },
+    {
+      "question": "Welche Erfahrungen haben Kunden an der Elbe gemacht?",
+      "answer": "Kunden schätzen besonders die Kombination aus norddeutscher Zuverlässigkeit, sächsischer Gründlichkeit und das ausgezeichnete Preis-Leistungs-Verhältnis."
+    }
+  ],
+  "cta": {
+    "text": "Klimaanlage Elbregion anfragen",
+    "url": "https://app.klimahero24.de"
+  }
+}

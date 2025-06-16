@@ -1,0 +1,177 @@
+{
+  "cityCards": [
+    {
+      "title": "Klimaanlage Berlin",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Berlin – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1587564111301-0ac26cc52a76?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "berlin"
+    },
+    {
+      "title": "Klimaanlage München",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in München – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "muenchen"
+    },
+    {
+      "title": "Klimaanlage Hamburg",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Hamburg – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "hamburg"
+    },
+    {
+      "title": "Klimaanlage Köln",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Köln – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/K%C3%B6ln-Yydt2aOVicp6bb2cgghpA0Oj93tHK7.png",
+      "slug": "koeln"
+    },
+    {
+      "title": "Klimaanlage Frankfurt",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Frankfurt – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "frankfurt"
+    },
+    {
+      "title": "Klimaanlage Stuttgart",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Stuttgart – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "stuttgart"
+    },
+    {
+      "title": "Klimaanlage Düsseldorf",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Düsseldorf – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "duesseldorf"
+    },
+    {
+      "title": "Klimaanlage Dortmund",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Dortmund – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "dortmund"
+    },
+    {
+      "title": "Klimaanlage Essen",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Essen – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "essen"
+    },
+    {
+      "title": "Klimaanlage Leipzig",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Leipzig – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1585128792020-803d29415281?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "leipzig"
+    },
+    {
+      "title": "Klimaanlage Bremen",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Bremen – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1544550285-f813152fb2fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "bremen"
+    },
+    {
+      "title": "Klimaanlage Dresden",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Dresden – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1471919743851-c4df8b6ee133?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "dresden"
+    },
+    {
+      "title": "Klimaanlage Hannover",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Hannover – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1583037189850-1921ae7c6c22?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "hannover"
+    },
+    {
+      "title": "Klimaanlage Nürnberg",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Nürnberg – Jetzt kostenloses Angebot anfragen.",
+      "slug": "nuernberg"
+    },
+    {
+      "title": "Klimaanlage Wuppertal",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Wuppertal – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1590470417449-f26977c5af16?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "wuppertal"
+    },
+    {
+      "title": "Klimaanlage Bielefeld",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Bielefeld – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "bielefeld"
+    },
+    {
+      "title": "Klimaanlage Bonn",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Bonn – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "bonn"
+    },
+    {
+      "title": "Klimaanlage Münster",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Münster – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1558618047-5c6c7d2d6d91?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "muenster"
+    },
+    {
+      "title": "Klimaanlage Karlsruhe",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Karlsruhe – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1576765776194-a5223f6cd46a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "karlsruhe"
+    },
+    {
+      "title": "Klimaanlage Mannheim",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Mannheim – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1573155993874-d5d48af862ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "mannheim"
+    },
+    {
+      "title": "Klimaanlage Augsburg",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Augsburg – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "augsburg"
+    },
+    {
+      "title": "Klimaanlage Wiesbaden",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Wiesbaden – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1562679265-18b703b0cd91?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "wiesbaden"
+    },
+    {
+      "title": "Klimaanlage Gelsenkirchen",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Gelsenkirchen – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1567556899151-e20f48da7ba6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "gelsenkirchen"
+    },
+    {
+      "title": "Klimaanlage Mönchengladbach",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Mönchengladbach – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "moenchengladbach"
+    },
+    {
+      "title": "Klimaanlage Braunschweig",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Braunschweig – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "braunschweig"
+    },
+    {
+      "title": "Klimaanlage Chemnitz",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Chemnitz – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1588282015020-3a48e6b42d00?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "chemnitz"
+    },
+    {
+      "title": "Klimaanlage Kiel",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Kiel – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "kiel"
+    },
+    {
+      "title": "Klimaanlage Aachen",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Aachen – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1571823352623-82b69471c096?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "aachen"
+    },
+    {
+      "title": "Klimaanlage Halle",
+      "description": "Professionelle Klimaanlagen-Beratung und Installation in Halle – Jetzt kostenloses Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1571018648462-2b9c18b99c73?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "halle"
+    }
+  ]
+}

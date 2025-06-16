@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. */
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 156 100% 37%; /* #00bf63 als HSL */
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 156 100% 96%; /* sehr helles Grün */
+    --secondary-foreground: 156 100% 37%;
+
+    --muted: 156 100% 96%;
+    --muted-foreground: 156 20% 40%;
+
+    --accent: 156 100% 96%;
+    --accent-foreground: 156 100% 37%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 156 30% 85%;
+    --input: 156 30% 85%;
+    --ring: 156 100% 37%;
+
+    --radius: 0.5rem;
+
+    --sidebar-background: 156 100% 98%;
+    --sidebar-foreground: 156 20% 30%;
+    --sidebar-primary: 156 100% 37%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 156 100% 90%;
+    --sidebar-accent-foreground: 156 100% 37%;
+    --sidebar-border: 156 30% 85%;
+    --sidebar-ring: 156 100% 37%;
+  }
+
+  .dark {
+    --background: 156 100% 10%;
+    --foreground: 0 0% 100%;
+
+    --card: 156 100% 10%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 156 100% 10%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 156 100% 37%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 156 100% 20%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 156 100% 20%;
+    --muted-foreground: 156 20% 70%;
+
+    --accent: 156 100% 20%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 156 30% 30%;
+    --input: 156 30% 30%;
+    --ring: 156 100% 37%;
+    --sidebar-background: 156 100% 15%;
+    --sidebar-foreground: 156 100% 90%;
+    --sidebar-primary: 156 100% 37%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 156 100% 25%;
+    --sidebar-accent-foreground: 156 100% 90%;
+    --sidebar-border: 156 30% 30%;
+    --sidebar-ring: 156 100% 37%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom animations */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out forwards;
+}
+
+/* Scroll reveal animations */
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-in-up {
+  animation: slideInUp 0.8s ease-out forwards;
+}
+
+/* Hover animations */
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
