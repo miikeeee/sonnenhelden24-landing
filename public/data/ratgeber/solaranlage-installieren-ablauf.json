@@ -47,13 +47,10 @@
       "text": "Dies ist die wichtigste Phase, denn hier legen Sie das Fundament für Ihr gesamtes Projekt. Ihre Aufgabe ist es, vom Interessenten zum informierten Käufer zu werden."
     },
     {
-      "type": "list", "items": [
-        "**Bedarfsanalyse:** Wie hoch ist Ihr aktueller Stromverbrauch? Planen Sie künftige Verbraucher wie eine Wärmepumpe oder ein E-Auto? Dies bestimmt die nötige Größe (kWp) der Anlage und des Speichers (kWh).",
-        "**Angebote einholen:** Holen Sie mindestens 3 detaillierte Angebote ein. Ein gutes Angebot listet alle Komponenten (Module, Wechselrichter, Speicher) mit Hersteller und Typbezeichnung auf und weist Kosten für Gerüst und Zählerschrankumbau separat aus.",
-        "**Fachbetrieb auswählen:** Achten Sie auf Zertifizierungen (z.B. als Elektromeisterbetrieb), regionale Nähe und transparente Kommunikation. Lesen Sie Bewertungen und fragen Sie nach Referenzprojekten.",
-        "**Vertragsprüfung:** Prüfen Sie den Vertrag genau. Sind alle vereinbarten Komponenten und Leistungen enthalten? Gibt es einen voraussichtlichen Zeitplan? Am Ende dieser Phase steht Ihre Unterschrift."
-      ]
+      "type": "text",
+      "text": "- **Bedarfsanalyse:** Wie hoch ist Ihr aktueller Stromverbrauch? Planen Sie künftige Verbraucher wie eine Wärmepumpe oder ein E-Auto? Dies bestimmt die nötige Größe (kWp) der Anlage und des Speichers (kWh).\n- **Angebote einholen:** Holen Sie mindestens 3 detaillierte Angebote ein. Ein gutes Angebot listet alle Komponenten (Module, Wechselrichter, Speicher) mit Hersteller und Typbezeichnung auf und weist Kosten für Gerüst und Zählerschrankumbau separat aus.\n- **Fachbetrieb auswählen:** Achten Sie auf Zertifizierungen (z.B. als Elektromeisterbetrieb), regionale Nähe und transparente Kommunikation. Lesen Sie Bewertungen und fragen Sie nach Referenzprojekten.\n- **Vertragsprüfung:** Prüfen Sie den Vertrag genau. Sind alle vereinbarten Komponenten und Leistungen enthalten? Gibt es einen voraussichtlichen Zeitplan? Am Ende dieser Phase steht Ihre Unterschrift."
     },
+
     {
       "type": "h2",
       "text": "Phase 2: Planung & Bürokratie im Hintergrund (Dauer: 4-12 Wochen)"
@@ -63,12 +60,10 @@
       "text": "Nach Ihrer Unterschrift beginnt für Sie die erste große 'Wartephase'. Im Hintergrund arbeitet Ihr Fachbetrieb auf Hochtouren. Ihre Rolle ist es, Dokumente zu prüfen und zu unterschreiben."
     },
     {
-      "type": "list", "items": [
-        "**Technischer Vor-Ort-Termin:** Ein Techniker prüft die Statik des Dachs, den Zustand der Ziegel, die genauen Maße und den Zustand Ihres Zählerschranks. Hier entscheidet sich, ob der Schrank umgebaut werden muss.",
-        "**Netzverträglichkeitsprüfung:** Ihr Installateur stellt eine offizielle Anfrage an Ihren Netzbetreiber, ob die geplante Anlage an das lokale Stromnetz angeschlossen werden darf. Die Antwort kann mehrere Wochen dauern.",
-        "**Materialbestellung:** Sobald die technische Planung steht, bestellt der Fachbetrieb alle Komponenten. Aufgrund der hohen Nachfrage kann es hier zu Lieferzeiten kommen.",
-        "**Anmeldung im Marktstammdatenregister:** Ihre Anlage muss bei der Bundesnetzagentur registriert werden. Dies übernimmt in der Regel Ihr Fachbetrieb für Sie."
-      ]
+      
+  "type": "text",
+  "text": "- **Technischer Vor-Ort-Termin:** Ein Techniker prüft die Statik des Dachs, den Zustand der Ziegel, die genauen Maße und den Zustand Ihres Zählerschranks. Hier entscheidet sich, ob der Schrank umgebaut werden muss.\n- **Netzverträglichkeitsprüfung:** Ihr Installateur stellt eine offizielle Anfrage an Ihren Netzbetreiber, ob die geplante Anlage an das lokale Stromnetz angeschlossen werden darf. Die Antwort kann mehrere Wochen dauern.\n- **Materialbestellung:** Sobald die technische Planung steht, bestellt der Fachbetrieb alle Komponenten. Aufgrund der hohen Nachfrage kann es hier zu Lieferzeiten kommen.\n- **Anmeldung im Marktstammdatenregister:** Ihre Anlage muss bei der Bundesnetzagentur registriert werden. Dies übernimmt in der Regel Ihr Fachbetrieb für Sie."
+
     },
     {
       "type": "h2",
@@ -99,13 +94,10 @@
       "text": "Die Anlage ist fertig montiert, aber sie darf noch nicht ans Netz. Nun beginnt die zweite, oft frustrierende 'Wartephase', in der Sie vom Terminkalender Ihres Netzbetreibers abhängig sind."
     },
     {
-      "type": "list", "items": [
-        "**Fertigstellungsmeldung:** Ihr Installateur meldet dem Netzbetreiber, dass die Anlage fertig und konform der Normen gebaut wurde.",
-        "**Warten auf den Zählertermin:** Der Netzbetreiber muss nun einen Termin zum Austausch Ihres alten Stromzählers gegen einen modernen Zweirichtungszähler vereinbaren. Dieser Termin bestimmt den finalen Startschuss.",
-        "**Inbetriebnahme:** An diesem Tag kommen Ihr Installateur und oft auch ein Vertreter des Netzbetreibers zusammen. Die Anlage wird final geprüft, hochgefahren und offiziell ans Netz genommen. Ab diesem Moment produzieren Sie Strom!",
-        "**Übergabe & Einweisung:** Ein guter Fachbetrieb übergibt Ihnen einen Ordner mit allen Dokumenten (Datenblätter, Garantien, Messprotokolle) und gibt Ihnen eine gründliche Einweisung in die Anlage und die Monitoring-App."
-      ]
+      "type": "text",
+      "text": "- **Fertigstellungsmeldung:** Ihr Installateur meldet dem Netzbetreiber, dass die Anlage fertig und konform der Normen gebaut wurde.\n- **Warten auf den Zählertermin:** Der Netzbetreiber muss nun einen Termin zum Austausch Ihres alten Stromzählers gegen einen modernen Zweirichtungszähler vereinbaren. Dieser Termin bestimmt den finalen Startschuss.\n- **Inbetriebnahme:** An diesem Tag kommen Ihr Installateur und oft auch ein Vertreter des Netzbetreibers zusammen. Die Anlage wird final geprüft, hochgefahren und offiziell ans Netz genommen. Ab diesem Moment produzieren Sie Strom!\n- **Übergabe & Einweisung:** Ein guter Fachbetrieb übergibt Ihnen einen Ordner mit allen Dokumenten (Datenblätter, Garantien, Messprotokolle) und gibt Ihnen eine gründliche Einweisung in die Anlage und die Monitoring-App."
     },
+
     {
       "type": "cta",
       "text": "Stehen Sie kurz vor der Installation? Mit unserer unabhängigen Baubegleitung stellen Sie sicher, dass alles fachgerecht ausgeführt wird.",

@@ -14,23 +14,18 @@
     { "type": "text", "text": "Der Entschluss für eine eigene **[Solaranlage](/solaranlage)** ist gefallen – herzlichen Glückwunsch! Doch jetzt stehst du vor der nächsten großen Frage: Soll ich die Anlage kaufen und selbst besitzen oder lieber das Rundum-Sorglos-Paket einer Miete wählen? Beide Modelle haben ihre Berechtigung, aber sie passen zu unterschiedlichen Lebenssituationen und Zielen. In diesem umfassenden Vergleich zeigen wir dir alle Vor- und Nachteile, damit du die perfekte Entscheidung für dein Zuhause in **[Berlin](/solaranlage/berlin)**, **[Bayern](/solaranlage/bayern)** oder anderswo treffen kannst." },
     { "type": "h2", "text": "Der Klassiker: Die Solaranlage kaufen" },
     { "type": "text", "text": "Beim Kauf erwirbst du die komplette Photovoltaikanlage. Sie geht in dein Eigentum über und wird Teil deiner Immobilie. Du trägst die volle Verantwortung, aber du erntest auch die vollen Früchte." },
-    { "type": "list", "items": [
-      "**Vorteil: Maximale Rendite:** Alle finanziellen Vorteile gehören dir. Du sparst 100% der Stromkosten, erhältst die volle Einspeisevergütung und profitierst von der Wertsteigerung deiner Immobilie.",
-      "**Vorteil: Volle Förderfähigkeit:** Du kannst alle staatlichen Förderungen, wie z.B. zinsgünstige KfW-Kredite, in vollem Umfang für dich nutzen.",
-      "**Vorteil: Absolute Freiheit:** Du entscheidest über Hersteller, Komponenten, Größe der Anlage und den Installationsbetrieb. Keine Kompromisse.",
-      "**Nachteil: Hohe Anfangsinvestition:** Die Anschaffungskosten von 10.000 € bis 25.000 € müssen auf einmal gestemmt oder finanziert werden. Mehr dazu in unserem Ratgeber zu den **[Solaranlage Kosten 2025](/ratgeber/solaranlage-kosten-2025)**.",
-      "**Nachteil: Eigenverantwortung:** Du bist selbst für Versicherung, Wartung und eventuelle Reparaturen nach Ablauf der Garantiezeiten verantwortlich."
-    ]},
+    {
+    "type": "text",
+    "text": "- **Vorteil: Maximale Rendite:** Alle finanziellen Vorteile gehören dir. Du sparst 100% der Stromkosten, erhältst die volle Einspeisevergütung und profitierst von der Wertsteigerung deiner Immobilie.\n- **Vorteil: Volle Förderfähigkeit:** Du kannst alle staatlichen Förderungen, wie z.B. zinsgünstige KfW-Kredite, in vollem Umfang für dich nutzen.\n- **Vorteil: Absolute Freiheit:** Du entscheidest über Hersteller, Komponenten, Größe der Anlage und den Installationsbetrieb. Keine Kompromisse.\n- **Nachteil: Hohe Anfangsinvestition:** Die Anschaffungskosten von 10.000 € bis 25.000 € müssen auf einmal gestemmt oder finanziert werden. Mehr dazu in unserem Ratgeber zu den **[Solaranlage Kosten 2025](/ratgeber/solaranlage-kosten-2025)**.\n- **Nachteil: Eigenverantwortung:** Du bist selbst für Versicherung, Wartung und eventuelle Reparaturen nach Ablauf der Garantiezeiten verantwortlich."
+    },
+
     { "type": "h2", "text": "Das Sorglos-Paket: Die Solaranlage mieten" },
     { "type": "text", "text": "Beim Mietmodell zahlst du eine feste monatliche Gebühr an einen Anbieter. Dieser kümmert sich um alles: Planung, Installation, Wartung, Versicherung und Reparaturen. Du wirst zum Stromproduzenten ohne Anfangsinvestition." },
-    { "type": "list", "items": [
-        "**Vorteil: Keine Anschaffungskosten:** Du kannst sofort loslegen, ohne Eigenkapital einsetzen zu müssen. Der größte Einstiegshürde entfällt.",
-        "**Vorteil: Planbare Kosten & Service:** Feste monatliche Raten über die gesamte Laufzeit (oft 20 Jahre). Wartung, Versicherung und Reparaturen sind inklusive.",
-        "**Vorteil: Sofortige Ersparnis:** Ab dem ersten Tag sparst du Stromkosten. Die Ersparnis ist in der Regel höher als die monatliche Miete.",
-        "**Nachteil: Höhere Gesamtkosten:** Über die gesamte Laufzeit von 20 Jahren gerechnet, ist Mieten teurer als Kaufen.",
-        "**Nachteil: Geringere Flexibilität:** Du bist an den Anbieter und seine Komponenten gebunden. Lange Vertragslaufzeiten schränken dich ein.",
-        "**Nachteil: Kein Eigentum:** Die Anlage gehört dir nicht und steigert somit nicht direkt den Wert deiner Immobilie. Die finanzielle Rendite ist geringer als beim Kauf."
-    ]},
+    {
+    "type": "text",
+    "text": "- **Vorteil: Keine Anschaffungskosten:** Du kannst sofort loslegen, ohne Eigenkapital einsetzen zu müssen. Der größte Einstiegshürde entfällt.\n- **Vorteil: Planbare Kosten & Service:** Feste monatliche Raten über die gesamte Laufzeit (oft 20 Jahre). Wartung, Versicherung und Reparaturen sind inklusive.\n- **Vorteil: Sofortige Ersparnis:** Ab dem ersten Tag sparst du Stromkosten. Die Ersparnis ist in der Regel höher als die monatliche Miete.\n- **Nachteil: Höhere Gesamtkosten:** Über die gesamte Laufzeit von 20 Jahren gerechnet, ist Mieten teurer als Kaufen.\n- **Nachteil: Geringere Flexibilität:** Du bist an den Anbieter und seine Komponenten gebunden. Lange Vertragslaufzeiten schränken dich ein.\n- **Nachteil: Kein Eigentum:** Die Anlage gehört dir nicht und steigert somit nicht direkt den Wert deiner Immobilie. Die finanzielle Rendite ist geringer als beim Kauf."
+    },
+
     { "type": "image", "src": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/PV_Wallbox_Kombi-rZEkktnhzysajfHxZZgu5c92y5O1OV.png", "alt": "Eine moderne Solaranlage mit Wallbox, die sowohl als Kauf- als auch als Mietmodell verfügbar ist." },
     { "type": "h2", "text": "Direkter Vergleich: Die Modelle in der Übersicht" },
     { "type": "table", "tableHeaders": ["Kriterium", "Solaranlage Kaufen", "Solaranlage Mieten"], "tableData": [

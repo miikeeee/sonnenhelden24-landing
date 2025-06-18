@@ -26,18 +26,21 @@
     { "type": "image", "src": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Installation_PV_Montage-sD7Vtawi6QqNaK8w31gLZbGRBl6Bs9.png", "alt": "Installation einer Photovoltaikanlage auf dem Dach" },
     { "type": "h2", "text": "Detaillierte Kostenaufschlüsselung: Wo fließt dein Geld hin?" },
     { "type": "text", "text": "Bei einer typischen PV-Anlage mit Speicher für rund 16.000€ verteilen sich die Kosten ungefähr wie folgt:" },
-	{ "type": "list", "items": [
-		"**Solarmodule (ca. 25%):** Der Preis pro Modul ist stark gesunken.",
-		"**Stromspeicher (ca. 30%):** Der Speicher ist oft die größte Einzelposition, aber entscheidend für die Wirtschaftlichkeit.",
-		"**Wechselrichter & Management (ca. 15%):** Das Gehirn der Anlage, oft mit Smart-Home-Funktionen.",
-		"**Montage & Installation (ca. 20%):** Lohnkosten für Elektriker und Dachdecker.",
-		"**Unterkonstruktion, Kabel & Sonstiges (ca. 10%):** Planung, Gerüst und Kleinmaterial."
-	]},
+    {
+    "type": "text",
+    "text": "- **Solarmodule (ca. 25%):** Der Preis pro Modul ist stark gesunken.\n- **Stromspeicher (ca. 30%):** Der Speicher ist oft die größte Einzelposition, aber entscheidend für die Wirtschaftlichkeit.\n- **Wechselrichter & Management (ca. 15%):** Das Gehirn der Anlage, oft mit Smart-Home-Funktionen.\n- **Montage & Installation (ca. 20%):** Lohnkosten für Elektriker und Dachdecker.\n- **Unterkonstruktion, Kabel & Sonstiges (ca. 10%):** Planung, Gerüst und Kleinmaterial."
+  },
+    { "type": "text", "text": "Diese Verteilung kann je nach Anbieter und Region leicht variieren, aber die Grundstruktur bleibt gleich. Wichtig ist, dass seriöse Angebote alle Kosten transparent ausweisen." },
+    { "type": "image", "src": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/solaranlage-kosten-2025-Preise-aufgeschluesselt.png", "alt": "Grafik zur Kostenaufschlüsselung einer Solaranlage" },
+
     { "type": "cta", "text": "Möchtest du eine genaue Kostenschätzung für deine Solaranlage? Unsere Experten erstellen dir kostenlos einen detaillierten Solar-Kostenvoranschlag.", "buttonText": "Kostenlosen Solar-Kostenvoranschlag anfragen" },
     { "type": "h2", "text": "Wirtschaftlichkeit und Amortisation: Wann rechnet sich Ihre Solaranlage?" },
     { "type": "text", "text": "Die wichtigste Frage ist nicht, was die Anlage kostet, sondern wann sie sich bezahlt macht. Die Amortisationszeit hängt von mehreren Faktoren ab: Anschaffungskosten, Höhe des Eigenverbrauchs und dem aktuellen Strompreis. Je mehr selbst erzeugten Strom Sie nutzen, desto schneller rechnet sich die Anlage. Mit einem Stromspeicher kann der Eigenverbrauchsanteil von ca. 30% auf 60-80% gesteigert werden." },
-	{ "type": "infobox", "headline": "Beispielrechnung: Amortisation einer PV-Anlage mit Speicher", "text": "<ul><li><b>Anlage:</b> 8 kWp PV-Anlage mit 8 kWh Speicher</li><li><b>Kosten:</b> 16.000 €</li><li><b>Jahresertrag:</b> 8.000 kWh</li><li><b>Strompreis Netz:</b> 35 Cent/kWh</li><li><b>Eigenverbrauchsanteil:</b> 70% (5.600 kWh)</li><li><b>Stromeinsparung:</b> 5.600 kWh * 0,35 €/kWh = 1.960 €/Jahr</li><li><b>Einspeisevergütung (Reststrom):</b> 2.400 kWh * 0,08 €/kWh = 192 €/Jahr</li><li><b>Gesamtertrag pro Jahr:</b> 1.960 € + 192 € = 2.152 €</li><li><b>Amortisationszeit:</b> 16.000 € / 2.152 €/Jahr ≈ 7,4 Jahre</li></ul><p>Nach ca. 7-8 Jahren ist die Anlage abbezahlt und liefert für weitere 15-20 Jahre nahezu kostenlosen Strom.</p>" },
-    { "type": "h2", "text": "Einzelkosten im Detail: Module, Speicher & Technik" },
+	 
+  
+  { "type": "infobox", "headline": "Beispielrechnung: Amortisation einer PV-Anlage mit Speicher", "text": "- **Anlage:** 8 kWp PV-Anlage mit 8 kWh Speicher\n- **Kosten:** 16.000 €\n- **Jahresertrag:** 8.000 kWh\n- **Strompreis Netz:** 35 Cent/kWh\n- **Eigenverbrauchsanteil:** 70% (5.600 kWh)\n- **Stromeinsparung:** 5.600 kWh * 0,35 €/kWh = 1.960 €/Jahr\n- **Einspeisevergütung (Reststrom):** 2.400 kWh * 0,08 €/kWh = 192 €/Jahr\n- **Gesamtertrag pro Jahr:** 1.960 € + 192 € = 2.152 €\n- **Amortisationszeit:** 16.000 € / 2.152 €/Jahr ≈ 7,4 Jahre\n\nNach ca. 7-8 Jahren ist die Anlage abbezahlt und liefert für weitere 15-20 Jahre nahezu kostenlosen Strom." },
+  
+  { "type": "h2", "text": "Einzelkosten im Detail: Module, Speicher & Technik" },
     { "type": "text", "text": "Die Wahl der Komponenten hat großen Einfluss auf die Gesamtkosten. Hier eine aktuelle Preisübersicht für die einzelnen Bauteile (inkl. 0% MwSt.):" },
     { "type": "table", "tableHeaders": ["Komponente", "Preis-Leistung", "Standard", "Premium (z.B. Glas-Glas)"], "tableData": [
       ["PV-Module (pro kWp)", "250 - 400€", "400 - 600€", "600 - 900€"],

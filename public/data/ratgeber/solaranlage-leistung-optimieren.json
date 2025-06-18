@@ -26,12 +26,11 @@
       "type": "text",
       "text": "Oft sind es nicht dramatische Ausfälle, sondern schleichende Verluste, die Ihre Rendite schmälern. Achten Sie auf diese typischen Anzeichen:"
     },
-	{ "type": "list", "items": [
-		"**Hohe Stromrechnungen:** Trotz Eigenverbrauch müssen Sie konstant viel Strom aus dem Netz zukaufen.",
-		"**Niedrige App-Werte:** Die in der Monitoring-App angezeigten Ertragswerte (kWh) liegen dauerhaft unter den Werten vergleichbarer Anlagen in Ihrer Region.",
-		"**Geringe Autarkiequote:** Ihr Stromspeicher wird selbst an sonnigen Tagen nicht vollständig geladen.",
-		"**Unerklärliche Leistungsschwankungen:** Die Leistung bricht tagsüber ohne ersichtlichen Grund (wie Wolken) plötzlich ein."
-	]},
+    {
+      "type": "text",
+      "text": "- **Hohe Stromrechnungen:** Trotz Eigenverbrauch müssen Sie konstant viel Strom aus dem Netz zukaufen.\n- **Niedrige App-Werte:** Die in der Monitoring-App angezeigten Ertragswerte (kWh) liegen dauerhaft unter den Werten vergleichbarer Anlagen in Ihrer Region.\n- **Geringe Autarkiequote:** Ihr Stromspeicher wird selbst an sonnigen Tagen nicht vollständig geladen.\n- **Unerklärliche Leistungsschwankungen:** Die Leistung bricht tagsüber ohne ersichtlichen Grund (wie Wolken) plötzlich ein."
+    },
+
     {
       "type": "cta",
       "text": "Erkennst du eines dieser Symptome? Unsere Experten analysieren die Leistung deiner Anlage und finden die Ursache. Unverbindlich und professionell.",
@@ -68,11 +67,11 @@
       "src": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/verschmutzte_solarmodule-dK3sK6wS1t4qX8uW7VvPzEoy01Dsqy.png",
       "alt": "Stark verschmutzte Solarmodule mit Moos und Staub, die die Leistung reduzieren."
     },
-	{ "type": "list", "items": [
-		"**Verschmutzung:** Eine dicke Schicht aus Staub, Pollen, Vogelkot oder Laub kann wie ein permanenter Schatten wirken und die Leistung um 5-15% reduzieren. Besonders bei flachen Dächern ist die Selbstreinigung durch Regen oft unzureichend.",
-		"**Degradation:** Alle Module verlieren über die Zeit an Leistung. Während 0,25-0,5% pro Jahr normal sind, kann eine überdurchschnittlich schnelle Alterung (z.B. durch minderwertige Qualität) zu signifikanten Einbußen führen.",
-		"**Mikrorisse & Hotspots:** Unsichtbare Haarrisse in den Zellen (z.B. durch Hagel oder Betreten der Module) oder fehlerhafte Lötstellen können zu lokalen Überhitzungen (Hotspots) führen und die Leistung des gesamten Moduls zerstören."
-	]},
+    {
+      "type": "text",
+      "text": "- **Verschmutzung:** Eine dicke Schicht aus Staub, Pollen, Vogelkot oder Laub kann wie ein permanenter Schatten wirken und die Leistung um 5–15 % reduzieren. Besonders bei flachen Dächern ist die Selbstreinigung durch Regen oft unzureichend.\n- **Degradation:** Alle Module verlieren über die Zeit an Leistung. Während 0,25–0,5 % pro Jahr normal sind, kann eine überdurchschnittlich schnelle Alterung (z. B. durch minderwertige Qualität) zu signifikanten Einbußen führen.\n- **Mikrorisse & Hotspots:** Unsichtbare Haarrisse in den Zellen (z. B. durch Hagel oder Betreten der Module) oder fehlerhafte Lötstellen können zu lokalen Überhitzungen (Hotspots) führen und die Leistung des gesamten Moduls zerstören."
+    },
+
     {
       "type": "h2",
       "text": "Ursache 3: Der Faktor Mensch – Das eigene Verbrauchsverhalten"
@@ -89,13 +88,15 @@
       "type": "text",
       "text": "Verfallen Sie nicht in Panik. Mit einer systematischen Analyse finden Sie die Ursache und die passende Lösung."
     },
-	{ "type": "list", "items": [
-		"**1. Realitäts-Check der Daten:** Vergleichen Sie die Ertragsdaten Ihrer App mit den Werten auf unabhängigen Portalen (z.B. PV-Ertrag.de) für Ihre Postleitzahl. Liegen Sie dauerhaft 20% oder mehr darunter, ist Handeln angesagt.",
-		"**2. Visuelle Inspektion (vom Boden aus):** Machen Sie mit einem Fernglas hochauflösende Fotos Ihrer Module. Erkennen Sie grobe Verschmutzungen, Laubansammlungen oder gar sichtbare Beschädigungen?",
-		"**3. Verbrauchsverhalten analysieren:** Schauen Sie in Ihrer App nach, wann Sie Strom produzieren und wann Sie ihn verbrauchen. Gibt es eine große Lücke zwischen Erzeugung (mittags) und Verbrauch (morgens/abends)?",
-		"**4. Professionelle Diagnose beauftragen:** Wenn die Ursache unklar bleibt, ist es Zeit für den Profi. Ein Fachbetrieb kann mit speziellen Messgeräten (Kennlinienmessung, Thermografie) die Leistung jedes einzelnen Moduls prüfen und versteckte Fehler wie Hotspots oder defekte Bypass-Dioden aufspüren.",
-		"**5. System-Optimierung oder -Upgrade:** Basierend auf der Diagnose gibt es gezielte Lösungen: von der professionellen Reinigung über die Nachrüstung von Optimierern bis hin zum Upgrade auf ein intelligentes Energiemanagement-System, das Ihre Verbraucher automatisch dann startet, wenn die Sonne scheint."
-	]},
+    {
+      "type": "text",
+      "text": "- **1. Realitäts-Check der Daten:** Vergleichen Sie die Ertragsdaten Ihrer App mit den Werten auf unabhängigen Portalen (z.B. PV-Ertrag.de) für Ihre Postleitzahl. Liegen Sie dauerhaft 20% oder mehr darunter, ist Handeln angesagt.\n- **2. Visuelle Inspektion (vom Boden aus):** Machen Sie mit einem Fernglas hochauflösende Fotos Ihrer Module. Erkennen Sie grobe Verschmutzungen, Laubansammlungen oder gar sichtbare Beschädigungen?\n- **3. Verbrauchsverhalten analysieren:** Schauen Sie in Ihrer App nach, wann Sie Strom produzieren und wann Sie ihn verbrauchen. Gibt es eine große Lücke zwischen Erzeugung (mittags) und Verbrauch (morgens/abends)?\n- **4. Professionelle Diagnose beauftragen:** Wenn die Ursache unklar bleibt, ist es Zeit für den Profi. Ein Fachbetrieb kann mit speziellen Messgeräten (Kennlinienmessung, Thermografie) die Leistung jedes einzelnen Moduls prüfen und versteckte Fehler wie Hotspots oder defekte Bypass-Dioden aufspüren.\n- **5. System-Optimierung oder -Upgrade:** Basierend auf der Diagnose gibt es gezielte Lösungen: von der professionellen Reinigung über die Nachrüstung von Optimierern bis hin zum Upgrade auf ein intelligentes Energiemanagement-System, das Ihre Verbraucher automatisch dann startet, wenn die Sonne scheint."
+    },
+    {
+      "type": "image",
+      "src": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/solartechniker-thermografie-sonnenhelden24.de-3X8Z5F4W6N7G8H9J0K1L2M3N4O5P6Q7.png",
+      "alt": "Ein Solartechniker führt eine Thermografie-Analyse durch, um Hotspots und andere Probleme zu identifizieren."
+    },  
     {
       "type": "cta",
       "text": "Lass deine Anlage von zertifizierten Profis durchchecken. Wir bieten eine umfassende Leistungsanalyse mit Thermografie und Kennlinienmessung.",
