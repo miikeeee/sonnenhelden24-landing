@@ -1,6 +1,15 @@
 import { useEffect, useState } from 'react';
 import { MapPin, ArrowRight, Phone, Plus } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import BreadcrumbSchema from '@/components/BreadcrumbSchema';
+import {
+  Breadcrumb,
+  BreadcrumbItem,
+  BreadcrumbLink,
+  BreadcrumbList,
+  BreadcrumbSeparator,
+  BreadcrumbPage
+} from '@/components/ui/breadcrumb';
 
 interface City {
   name: string;
@@ -192,6 +201,27 @@ const SolaranlageListPage = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-yellow-50">
+      {/* Breadcrumbs */}
+      <BreadcrumbSchema items={[
+        { name: 'Startseite', url: '/' },
+        { name: 'Solaranlage', url: '/solaranlage' }
+      ]} />
+      <section className="pt-20 pb-4 bg-white">
+        <div className="container mx-auto px-4 max-w-6xl">
+          <Breadcrumb>
+            <BreadcrumbList>
+              <BreadcrumbItem>
+                <BreadcrumbLink href="/">Startseite</BreadcrumbLink>
+              </BreadcrumbItem>
+              <BreadcrumbSeparator />
+              <BreadcrumbItem>
+                <BreadcrumbPage>Solaranlage</BreadcrumbPage>
+              </BreadcrumbItem>
+            </BreadcrumbList>
+          </Breadcrumb>
+        </div>
+      </section>
+
       {/* Header */}
       <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm shadow-sm z-50">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">

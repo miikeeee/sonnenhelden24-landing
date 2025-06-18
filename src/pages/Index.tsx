@@ -259,7 +259,7 @@ const Index = () => {
             </div>
             <div className="flex justify-center lg:justify-end animate-fade-in">
               <img 
-                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Freiflaeche_solar-MlMSPm9RinSumNhGpyHBDjpOA0eiDN.png"
+                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Solaranlage_und_Wallbox-66Fq4gWhfa3bzllE4BtWZHaYAA5DUP.png"
                 alt="Solaranlage auf Hausdach – SonnenHelden24"
                 className="rounded-2xl shadow-xl w-full max-w-md"
               />
@@ -474,17 +474,17 @@ const Index = () => {
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <img 
-                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/FavIcon%20500%20x%20500%20%281%29-VYpwjV6yIfD1z9XEUUqmlnOVoD2NDo.svg"
-                alt="badhelden24 Logo"
+                src="https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/SonnenHelden24%20Branding/Sonnenhelden%20Logo%20500%20x%20120%20schwarz-FedDT3PWV59uMqMrNfrRkENONXp5nJ.svg"
+                alt="sonnenhelden24 Logo"
                 className="h-8 mb-4"
               />
-              <p className="text-gray-400">Dein Partner für professionelle Badsanierung in ganz Deutschland.</p>
+              <p className="text-gray-400">Dein Partner für Solaranlagen & Photovoltaik in ganz Deutschland.</p>
             </div>
             <div>
               <h4 className="font-semibold mb-4">Services</h4>
               <ul className="space-y-2 text-gray-400">
-                <li><a href="/badsanierung" className="hover:text-white transition-colors">Badsanierung</a></li>
-                <li><a href="/badumbau" className="hover:text-white transition-colors">Badumbau</a></li>
+                <li><a href="/solaranlage" className="hover:text-white transition-colors">Solaranlage</a></li>
+                <li><a href="/wallbox" className="hover:text-white transition-colors">Wallbox</a></li>
                 <li><a href="/ratgeber" className="hover:text-white transition-colors">Ratgeber</a></li>
               </ul>
             </div>
@@ -500,12 +500,12 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Kontakt</h4>
               <p className="text-gray-400">
-                <span className="block">✉️ info@badhelden24.de</span>
+                <span className="block">✉️ info@sonnenhelden24.de</span>
               </p>
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 badhelden24. Alle Rechte vorbehalten.</p>
+            <p>&copy; 2024 sonnenhelden24. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </footer>

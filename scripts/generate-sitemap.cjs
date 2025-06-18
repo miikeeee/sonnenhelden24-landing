@@ -2,12 +2,12 @@ const fs = require('fs');
 const path = require('path');
 
 // Base URL - korrekte Domain
-const BASE_URL = 'https://www.badhelden24.de';
+const BASE_URL = 'https://www.sonnenhelden24.de';
 
 // Statische Routen
 const staticRoutes = [
   '',
-  '/badsanierung',
+  '/solaranlage',
   '/ratgeber',
   '/impressum',
   '/datenschutz',
@@ -32,8 +32,8 @@ function getAllJsonSlugs(dir, prefix = '') {
   return slugs;
 }
 
-// Badsanierung: alle Slugs inkl. Stadtteile
-const badsanierungSlugs = getAllJsonSlugs('badsanierung');
+// Solaranlage: alle Slugs inkl. Stadtteile
+const solaranlageSlugs = getAllJsonSlugs('solaranlage');
 // Ratgeber: alle Slugs aus JSON-Dateien (nicht mehr fest definiert)
 const ratgeberSlugs = getAllJsonSlugs('ratgeber');
 
@@ -56,11 +56,11 @@ function generateSitemap() {
   </url>`;
   });
 
-  // Badsanierung-Seiten hinzufügen
-  badsanierungSlugs.forEach(slug => {
+  // Solaranlage-Seiten hinzufügen
+  solaranlageSlugs.forEach(slug => {
     sitemap += `
   <url>
-    <loc>${BASE_URL}/badsanierung/${slug}</loc>
+    <loc>${BASE_URL}/solaranlage/${slug}</loc>
     <lastmod>${today}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -91,7 +91,7 @@ try {
   fs.writeFileSync(outputPath, sitemap);
   console.log('✅ Sitemap erfolgreich generiert:', outputPath);
   console.log(`📊 Enthält ${sitemap.split('<url>').length - 1} URLs`);
-  console.log(`🌐 Domain: https://www.badhelden24.de`);
+  console.log(`🌐 Domain: https://www.sonnenhelden24.de`);
   console.log(`📅 Datum: ${new Date().toISOString().split('T')[0]}`);
 } catch (error) {
   console.error('❌ Fehler beim Generieren der Sitemap:', error);

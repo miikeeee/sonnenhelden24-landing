@@ -13,6 +13,7 @@ import RatgeberHero from '@/components/RatgeberHero';
 import RatgeberFooter from '@/components/RatgeberFooter';
 import { useRatgeberData } from '@/hooks/useRatgeberData';
 import { useSEO } from '@/hooks/useSEO';
+import ReactMarkdown from 'react-markdown';
 
 // --- NEUE HELFER & TYPEN (vorher in RatgeberContent.tsx) ---
 
@@ -152,7 +153,24 @@ const RatgeberPage = () => {
                                 case 'h2':
                                     return <h2 key={index} className="text-2xl sm:text-3xl font-bold text-gray-800 mt-12 mb-4 border-b pb-2">{item.text}</h2>;
                                 case 'text':
-                                    return <p key={index} className="my-5 text-base sm:text-lg leading-relaxed text-gray-700">{item.text}</p>;
+                                    return (
+                                        <div key={index} className="my-5 text-base sm:text-lg leading-relaxed text-gray-700">
+                                            <ReactMarkdown
+                                                components={{
+                                                    li: ({children, ...props}) => (
+                                                        <li {...props} style={{marginBottom: '0.5em', display: 'flex', alignItems: 'flex-start'}}>
+                                                            <span style={{color: '#fbbf24', marginRight: 8, fontSize: 18}}>•</span>
+                                                            <span>{children}</span>
+                                                        </li>
+                                                    ),
+                                                    strong: ({node, ...props}) => <strong className="font-bold" {...props} />, // Optional: Tailwind für bold
+                                                    a: ({node, ...props}) => <a className="text-blue-600 underline" target="_blank" rel="noopener noreferrer" {...props} />
+                                                }}
+                                            >
+                                                {item.text || ''}
+                                            </ReactMarkdown>
+                                        </div>
+                                    );
                                 case 'image':
                                     return (
                                         <figure key={index} className="my-8">
@@ -186,7 +204,16 @@ const RatgeberPage = () => {
                                 case 'cta':
                                     return (
                                         <div key={index} className="my-10 p-6 bg-blue-600 rounded-lg text-white text-center shadow-lg">
-                                            <p className="text-lg sm:text-xl font-semibold mb-4">{item.text}</p>
+                                            <div className="text-lg sm:text-xl font-semibold mb-4">
+                                                <ReactMarkdown
+                                                    components={{
+                                                        strong: ({node, ...props}) => <strong className="font-bold" {...props} />, // Tailwind für bold
+                                                        a: ({node, ...props}) => <a className="text-blue-200 underline" target="_blank" rel="noopener noreferrer" {...props} />
+                                                    }}
+                                                >
+                                                    {item.text || ''}
+                                                </ReactMarkdown>
+                                            </div>
                                             <button onClick={handleCTAClick} className="px-8 py-3 bg-white text-blue-600 font-bold rounded-lg hover:bg-blue-100 transition-colors">
                                                 {item.buttonText}
                                             </button>
@@ -201,7 +228,16 @@ const RatgeberPage = () => {
                                                 {isTip ? <TipIcon /> : <InfoIcon />}
                                                 {item.title}
                                             </h4>
-                                            <p className="mt-2 text-sm sm:text-base">{item.text}</p>
+                                            <div className="mt-2 text-sm sm:text-base">
+                                                <ReactMarkdown
+                                                    components={{
+                                                        strong: ({node, ...props}) => <strong className="font-bold" {...props} />, // Tailwind für bold
+                                                        a: ({node, ...props}) => <a className="text-blue-600 underline" target="_blank" rel="noopener noreferrer" {...props} />
+                                                    }}
+                                                >
+                                                    {item.text || ''}
+                                                </ReactMarkdown>
+                                            </div>
                                         </div>
                                     );
                                 case 'list':
@@ -210,7 +246,16 @@ const RatgeberPage = () => {
                                     return (
                                         <ListTag key={index} className={`my-5 pl-5 space-y-2 text-base sm:text-lg text-gray-700 list-inside ${listStyle}`}>
                                             {item.items.map((listItem, i) => (
-                                                <li key={i}>{listItem}</li>
+                                                <li key={i}>
+                                                    <ReactMarkdown
+                                                        components={{
+                                                            strong: ({node, ...props}) => <strong className="font-bold" {...props} />,
+                                                            a: ({node, ...props}) => <a className="text-blue-600 underline" target="_blank" rel="noopener noreferrer" {...props} />
+                                                        }}
+                                                    >
+                                                        {listItem}
+                                                    </ReactMarkdown>
+                                                </li>
                                             ))}
                                         </ListTag>
                                     );
