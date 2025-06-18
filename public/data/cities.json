@@ -1,0 +1,178 @@
+{
+  "cityCards": [
+    {
+      "title": "Solaranlage Berlin",
+      "description": "Photovoltaik & Solaranlagen in Berlin – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Berlin-zJ9xmtGNOh9FJtk7SwLhbl7yTXGbt2.png",
+      "slug": "berlin"
+    },
+    {
+      "title": "Solaranlage München",
+      "description": "Solaranlage & PV in München – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/M%C3%BCnchen-ZWwmjvMUvVkPs1H2z2NzYf38XQN39R.png",
+      "slug": "muenchen"
+    },
+    {
+      "title": "Solaranlage Hamburg",
+      "description": "Solaranlage & Photovoltaik in Hamburg – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Hamburg-4cuP1IL7UfDzH9ti2eZ9XsNOessFqt.png",
+      "slug": "hamburg"
+    },
+    {
+      "title": "Solaranlage Köln",
+      "description": "Solaranlage & PV in Köln – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/K%C3%B6ln-Yydt2aOVicp6bb2cgghpA0Oj93tHK7.png",
+      "slug": "koeln"
+    },
+    {
+      "title": "Solaranlage Frankfurt",
+      "description": "Solaranlage & Photovoltaik in Frankfurt – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Frankfurt-4S7jvWulJjzOpQGoyF01sjqly0HhXK.png",
+      "slug": "frankfurt"
+    },
+    {
+      "title": "Solaranlage Stuttgart",
+      "description": "Solaranlage & PV in Stuttgart – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Stuttgart-uyffTfqftCZFEXIcoSg1JbNrjDO6FO.png",
+      "slug": "stuttgart"
+    },
+    {
+      "title": "Solaranlage Düsseldorf",
+      "description": "Solaranlage & Photovoltaik in Düsseldorf – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "duesseldorf"
+    },
+    {
+      "title": "Solaranlage Dortmund",
+      "description": "Solaranlage & PV in Dortmund – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "dortmund"
+    },
+    {
+      "title": "Solaranlage Essen",
+      "description": "Solaranlage & Photovoltaik in Essen – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "essen"
+    },
+    {
+      "title": "Solaranlage Leipzig",
+      "description": "Solaranlage & PV in Leipzig – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1585128792020-803d29415281?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "leipzig"
+    },
+    {
+      "title": "Solaranlage Bremen",
+      "description": "Solaranlage & Photovoltaik in Bremen – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1544550285-f813152fb2fd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "bremen"
+    },
+    {
+      "title": "Solaranlage Dresden",
+      "description": "Solaranlage & PV in Dresden – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1471919743851-c4df8b6ee133?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "dresden"
+    },
+    {
+      "title": "Solaranlage Hannover",
+      "description": "Solaranlage & Photovoltaik in Hannover – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1583037189850-1921ae7c6c22?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "hannover"
+    },
+    {
+      "title": "Solaranlage Nürnberg",
+      "description": "Solaranlage & PV in Nürnberg – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "nuernberg"
+    },
+    {
+      "title": "Solaranlage Wuppertal",
+      "description": "Solaranlage & Photovoltaik in Wuppertal – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1590470417449-f26977c5af16?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "wuppertal"
+    },
+    {
+      "title": "Solaranlage Bielefeld",
+      "description": "Solaranlage & PV in Bielefeld – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "bielefeld"
+    },
+    {
+      "title": "Solaranlage Bonn",
+      "description": "Solaranlage & Photovoltaik in Bonn – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "bonn"
+    },
+    {
+      "title": "Solaranlage Münster",
+      "description": "Solaranlage & PV in Münster – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1558618047-5c6c7d2d6d91?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "muenster"
+    },
+    {
+      "title": "Solaranlage Karlsruhe",
+      "description": "Solaranlage & Photovoltaik in Karlsruhe – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1576765776194-a5223f6cd46a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "karlsruhe"
+    },
+    {
+      "title": "Solaranlage Mannheim",
+      "description": "Solaranlage & PV in Mannheim – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1573155993874-d5d48af862ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "mannheim"
+    },
+    {
+      "title": "Solaranlage Augsburg",
+      "description": "Solaranlage & Photovoltaik in Augsburg – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "augsburg"
+    },
+    {
+      "title": "Solaranlage Wiesbaden",
+      "description": "Solaranlage & PV in Wiesbaden – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1562679265-18b703b0cd91?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "wiesbaden"
+    },
+    {
+      "title": "Solaranlage Gelsenkirchen",
+      "description": "Solaranlage & Photovoltaik in Gelsenkirchen – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1567556899151-e20f48da7ba6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "gelsenkirchen"
+    },
+    {
+      "title": "Solaranlage Mönchengladbach",
+      "description": "Solaranlage & PV in Mönchengladbach – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "moenchengladbach"
+    },
+    {
+      "title": "Solaranlage Braunschweig",
+      "description": "Solaranlage & Photovoltaik in Braunschweig – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "braunschweig"
+    },
+    {
+      "title": "Solaranlage Chemnitz",
+      "description": "Solaranlage & PV in Chemnitz – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1588282015020-3a48e6b42d00?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "chemnitz"
+    },
+    {
+      "title": "Solaranlage Kiel",
+      "description": "Solaranlage & Photovoltaik in Kiel – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "kiel"
+    },
+    {
+      "title": "Solaranlage Aachen",
+      "description": "Solaranlage & PV in Aachen – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1571823352623-82b69471c096?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "aachen"
+    },
+    {
+      "title": "Solaranlage Halle",
+      "description": "Solaranlage & Photovoltaik in Halle – Jetzt kostenloses Solar-Angebot anfragen.",
+      "image": "https://images.unsplash.com/photo-1571018648462-2b9c18b99c73?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "slug": "halle"
+    }
+  ]
+}

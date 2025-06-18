@@ -1,0 +1,109 @@
+{
+  "slug": "donau",
+  "title": "Solaranlage Donauregion | Ulm, Regensburg & Passau | sonnenhelden24",
+  "metaDescription": "Solaranlage an der Donau ✓ Ulm, Regensburg, Passau, Ingolstadt ✓ Kosten ab 15.000€ ✓ Donau-Qualität ✓ Förderungen ✓ Bayerische Gemütlichkeit!",
+  "h1": "Solaranlage Donauregion",
+  "heroText": "Bayerische Gemütlichkeit trifft auf europäische Energie. Von Ulm bis Passau – erleben Sie professionelle Solar-Installationen entlang der Donau mit regionalen Experten und süddeutschem Charme.",
+  "heroImage": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Donau-zKpibJtDAivp0KrtuWzhRWdPaA2BkM.png",
+  "location": "Donauregion",
+  "sections": [
+    {
+      "heading": "Solaranlagen entlang der Donau – Europas sonnige Wasserstraße",
+      "text": "Die Donau ist Europas zweitlängster Fluss und prägt Bayern und Baden-Württemberg nachhaltig. Diese internationale Ausstrahlung spiegelt sich in unseren Solarprojekten wider – von der Münsterstadt Ulm über die UNESCO-Welterbestadt Regensburg bis zur Dreiflüssestadt Passau. Entlang der Donau verbinden wir süddeutsche Tradition mit zukunftssicherer Solartechnologie.",
+      "image": "https://images.unsplash.com/photo-1629471183103-3d5cc5485d99?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Kosten Solaranlage Donauregion – Süddeutsch solide investiert",
+      "text": "Die Preise für eine Komplett-Solaranlage beginnen an der Donau bei etwa 15.000€ für ein Einfamilienhaus. Premium-Anlagen können bis zu 35.000€ kosten. Die Donauregion bietet als wirtschaftsstarker süddeutscher Raum mit etablierten Handwerkstraditionen ausgezeichnete Qualität zu fairen Preisen.",
+      "image": "https://images.unsplash.com/photo-1621495473843-6927427a1c52?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Süddeutsche Installateure von der Quelle bis zur Grenze",
+      "text": "Von Donaueschingen über Ulm, Ingolstadt und Regensburg bis Passau – wir arbeiten mit qualifizierten Solar-Fachbetrieben entlang der deutschen Donau. Ob Solaranlage in Neu-Ulm, Donauwörth, Kelheim oder Deggendorf – unsere Partner kennen die regionalen Besonderheiten von schwäbischer Gründlichkeit bis zu bayerischer Gemütlichkeit.",
+      "image": "https://images.unsplash.com/photo-1600823332034-71ade998b368?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Donau-Sonne für Ihre Energieunabhängigkeit",
+      "text": "Die Donauregion steht für Kultur, Gastfreundschaft und höchste Qualitätsansprüche. Diese Eigenschaften fließen in jede unserer Solar-Installationen ein. Ob schwäbische Funktionalität in Ulm, bayerische Gemütlichkeit in Regensburg oder maximale Leistung in Passau – wir schaffen Anlagen mit süddeutschem Charme und europäischem Weitblick.",
+      "image": "https://images.unsplash.com/photo-1621495473843-6927427a1c52?q=80&w=800&auto=format&fit=crop&ixlib-rb-4.1.0"
+    }
+  ],
+  "processSection": {
+    "heading": "Ihr Weg zur Solaranlage an der Donau",
+    "subheading": "Süddeutsch gründlich und gemütlich – so werden Sie an der Donau energieunabhängig.",
+    "steps": [
+      {
+        "icon": "PhoneOutgoing",
+        "title": "Kostenlose Erstberatung",
+        "description": "Kontaktieren Sie uns für eine süddeutsch-herzliche Beratung zu Ihrer Solaranlage."
+      },
+      {
+        "icon": "Home",
+        "title": "Donauregion Vor-Ort-Analyse",
+        "description": "Ein regionaler Experte prüft mit Donau-Kompetenz Ihr Dach und Ihr Einsparpotenzial."
+      },
+      {
+        "icon": "FileText",
+        "title": "Süddeutsch faires Angebot",
+        "description": "Sie erhalten ein transparentes Angebot mit süddeutscher Gründlichkeit und fairen Preisen."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Donau-Installationskunst",
+        "description": "Erfahrene süddeutsche Installateure montieren Ihre Anlage mit höchster Präzision."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Donauregion-Inbetriebnahme",
+        "description": "Gemeinsame Inbetriebnahme Ihrer Anlage mit 20 Jahren Leistungsgarantie auf die Module."
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "heading": "Ihre Vorteile mit Sonnenhelden24 an der Donau",
+    "benefits": [
+      {
+        "icon": "Users",
+        "title": "Donauregion-Fachbetriebe",
+        "description": "Erfahrene süddeutsche Solar-Installateure mit bayerischer und schwäbischer Tradition."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Süddeutsche Qualität",
+        "description": "Hochwertige Solarmodule und Komponenten für maximale Erträge und Langlebigkeit."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Donau-faire Investition",
+        "description": "Stromkosten senken und von Förderungen profitieren dank etablierter süddeutscher Netzwerke."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Komplette deutsche Donau",
+        "description": "Von Baden-Württemberg bis Bayern entlang der deutschen Donau."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Was kostet eine Solaranlage an der Donau?",
+      "answer": "Eine Standard-Anlage für ein Einfamilienhaus beginnt bei etwa 15.000€. Je nach Ausstattung können die Kosten bis zu 35.000€ betragen. Die Donauregion bietet süddeutsche Qualität zu fairen Preisen."
+    },
+    {
+      "question": "Arbeiten Sie entlang der gesamten deutschen Donau?",
+      "answer": "Ja, von Ulm über Regensburg bis Passau und in alle Städte und Gemeinden entlang der deutschen Donau. Unsere Partner decken die komplette Donauregion ab."
+    },
+    {
+      "question": "Lohnt sich eine Solaranlage in der Donauregion?",
+      "answer": "Absolut. Süddeutschland und insbesondere die Donauregion gehören zu den sonnenreichsten Gebieten in Deutschland, was für exzellente Energieerträge und eine schnelle Amortisation sorgt."
+    },
+    {
+      "question": "Welche Erfahrungen haben Kunden an der Donau gemacht?",
+      "answer": "Kunden schätzen besonders die süddeutsche Gründlichkeit, die professionelle Abwicklung und die deutliche Reduzierung ihrer Stromrechnung durch die eigene Sonnenenergie."
+    }
+  ],
+  "cta": {
+    "text": "Solaranlage Donauregion anfragen",
+    "url": "https://app.sonnenhelden24.de"
+  }
+}

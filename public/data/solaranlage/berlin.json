@@ -1,0 +1,109 @@
+{
+  "slug": "berlin",
+  "title": "Solaranlage Berlin | Prenzlauer Berg, Mitte & Charlottenburg | sonnenhelden24",
+  "metaDescription": "Solaranlage in Berlin ✓ Alle Bezirke ✓ Kosten ab 16.000€ ✓ Altbau-Expertise ✓ Stromkosten senken ✓ Berliner Schnauze & Qualität!",
+  "h1": "Solaranlage Berlin",
+  "heroText": "Hauptstadt-Sonne für Ihre Unabhängigkeit. Von Kreuzberg bis Charlottenburg – erleben Sie professionelle Solar-Installationen in Berlin mit regionalen Experten und Berliner Schnauze.",
+  "heroImage": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/St%C3%A4dtebilder/Berlin-zJ9xmtGNOh9FJtk7SwLhbl7yTXGbt2.png",
+  "location": "Berlin",
+  "sections": [
+    {
+      "heading": "Solaranlagen in der Hauptstadt – Von Altbau bis Neubau",
+      "text": "Berlin vereint Geschichte mit Zukunft wie keine andere deutsche Stadt. Diese Vielfalt spiegelt sich in unseren Solarprojekten wider – von denkmalgerechten Anlagen auf Altbauten in Prenzlauer Berg über Flachdach-Systeme in Mitte bis zu modernen Anlagen in Charlottenburg. Unsere Berliner Solar-Fachbetriebe kennen die Eigenarten der Hauptstadt-Architektur und meistern Gründerzeitdächer wie Plattenbauten mit Berliner Know-how.",
+      "image": "https://images.unsplash.com/photo-1629471183103-3d5cc5485d99?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.1.0"
+    },
+    {
+      "heading": "Kosten Solaranlage Berlin – Hauptstadt-Budget smart investiert",
+      "text": "Die Kosten für eine Komplett-Solaranlage in Berlin beginnen bei etwa 16.000€ für ein Einfamilienhaus. Größere Anlagen mit Speicher können bis zu 35.000€ kosten. Als Hauptstadt bietet Berlin den Vorteil kurzer Lieferwege und eines großen Handwerkernetzes, was trotz höherer Lebenshaltungskosten für wettbewerbsfähige Preise sorgt.",
+      "image": "https://images.unsplash.com/photo-1621495473843-6927427a1c52?q=80&w=800&auto=format&fit=crop&ixlib-rb-4.1.0"
+    },
+    {
+      "heading": "Berliner Installateure in allen Bezirken",
+      "text": "Von Spandau über Tempelhof bis nach Lichtenberg – wir arbeiten mit qualifizierten Solar-Fachbetrieben in ganz Berlin. Ob Solaranlage in Friedrichshain, Wilmersdorf oder Wedding – unsere Partner kennen die besonderen Herausforderungen der Berliner Dächer. Von denkmalgeschützten Altbauten bis zu modernen Eigentumswohnungen – Berliner Installateure meistern jede Herausforderung mit der typischen Berliner Direktheit.",
+      "image": "https://images.unsplash.com/photo-1600823332034-71ade998b368?q=80&w=800&auto=format&fit=crop&ixlib-rb-4.1.0"
+    },
+    {
+      "heading": "Hauptstadt-Qualität für Ihre Energiewende",
+      "text": "Berlin steht für Innovation, Kreativität und den Willen zur Veränderung. Diese Eigenschaften fließen in jedes unserer Solarprojekte ein. Ob unauffällige Integration in Mitte, nachhaltige Lösung in Kreuzberg oder maximale Leistung in Charlottenburg – wir realisieren Ihre persönliche Energiewende. Die Berliner Mentalität 'Wat mutt, dat mutt' sorgt für pragmatische Lösungen und höchste Qualitätsansprüche.",
+      "image": "https://images.unsplash.com/photo-1621495473843-6927427a1c52?q=80&w=800&auto=format&fit=crop&ixlib-rb-4.1.0"
+    }
+  ],
+  "processSection": {
+    "heading": "Ihr Weg zur Solaranlage in Berlin",
+    "subheading": "Berlinerisch direkt und professionell – so werden Sie in der Hauptstadt energieunabhängig.",
+    "steps": [
+      {
+        "icon": "PhoneOutgoing",
+        "title": "Kostenlose Erstberatung",
+        "description": "Kontaktieren Sie uns für eine direkte Beratung zu Ihrer Solaranlage in Berlin."
+      },
+      {
+        "icon": "Home",
+        "title": "Berliner Vor-Ort-Analyse",
+        "description": "Ein Hauptstadt-Experte prüft Ihr Dach und plant mit Ihnen Ihre individuelle Berliner Solaranlage."
+      },
+      {
+        "icon": "FileText",
+        "title": "Transparentes Festpreisangebot",
+        "description": "Sie erhalten ein klares Angebot mit Berliner Direktheit und fairer Preisgestaltung."
+      },
+      {
+        "icon": "Wrench",
+        "title": "Berliner Installationskunst",
+        "description": "Erfahrene Berliner Installateure montieren Ihre Anlage zuverlässig und termingerecht."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Hauptstadt-Inbetriebnahme",
+        "description": "Gemeinsame Inbetriebnahme Ihrer Anlage mit Einweisung und 20 Jahren Leistungsgarantie auf die Module."
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "heading": "Ihre Vorteile mit Sonnenhelden24 in Berlin",
+    "benefits": [
+      {
+        "icon": "Users",
+        "title": "Berliner Solar-Fachbetriebe",
+        "description": "Zertifizierte Installateure aus Berlin mit Hauptstadt-Know-how und Berliner Schnauze."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Hauptstadt-Qualität",
+        "description": "Hochwertige Solarmodule und Komponenten von Top-Herstellern für maximale Langlebigkeit."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Stromkosten senken & fördern lassen",
+        "description": "Wir helfen Ihnen, von den attraktiven Förderprogrammen für Solarenergie in Berlin zu profitieren."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Alle Berliner Bezirke",
+        "description": "Von Reinickendorf bis Treptow – wir sind in ganz Berlin für Sie da."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "Was kostet eine Solaranlage in Berlin?",
+      "answer": "Eine Solaranlage für ein Einfamilienhaus beginnt bei etwa 16.000€. Je nach Ausstattung (z.B. mit Speicher) und Dachbeschaffenheit können die Kosten bis zu 35.000€ betragen. Berlin bietet spezielle Förderprogramme, die die Kosten senken."
+    },
+    {
+      "question": "Arbeiten Sie in allen Berliner Bezirken?",
+      "answer": "Ja, wir sind in ganz Berlin tätig – von Charlottenburg über Mitte und Prenzlauer Berg bis nach Lichtenberg, Tempelhof und allen anderen Bezirken."
+    },
+    {
+      "question": "Haben Sie Erfahrung mit Berliner Altbauten?",
+      "answer": "Selbstverständlich. Unsere Berliner Partner haben langjährige Erfahrung mit Gründerzeit-Altbauten und den Denkmalschutzauflagen. Wir finden auch für Ihr Dach die passende, genehmigungsfähige Lösung."
+    },
+    {
+      "question": "Welche Erfahrungen haben Berliner Kunden gemacht?",
+      "answer": "Berliner Kunden schätzen besonders die direkte Art, die zuverlässige Umsetzung und die deutliche Reduzierung der Stromrechnung, was in einer teuren Stadt wie Berlin besonders willkommen ist."
+    }
+  ],
+  "cta": {
+    "text": "Solaranlage Berlin anfragen",
+    "url": "https://app.sonnenhelden24.de"
+  }
+}

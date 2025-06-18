@@ -1,0 +1,14 @@
+{
+  "images": [
+    { "id": 1, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Freiflaeche_solar-MlMSPm9RinSumNhGpyHBDjpOA0eiDN.png" },
+    { "id": 2, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Installation_PV_Montage-sD7Vtawi6QqNaK8w31gLZbGRBl6Bs9.png" },
+    { "id": 3, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/PV-Anlage_Mueller-Kj1arMqNfcTeHUdHBUpT9Ibum93bXz.png" },
+    { "id": 4, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/PV_Montage_DC-hK2JpJrys8b8UL3eQgciKQowfwz4b3.png" },
+    { "id": 5, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/PV_Wallbox_Kombi-rZEkktnhzysajfHxZZgu5c92y5O1OV.png" },
+    { "id": 6, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Solar_Wallbox_Elektroauto-kAQeu7bz1GrhPRegiFxeHjkq9GOd4f.png" },
+    { "id": 7, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Solaranlage_Bungalow-DZrdTziKXmx6nhsIjR95RzMqJBxP4q.png" },
+    { "id": 8, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Solaranlage_und_Wallbox-66Fq4gWhfa3bzllE4BtWZHaYAA5DUP.png" },
+    { "id": 9, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Zaehlerschrank-2JuOe4yedcwhot9ueUNonfJIumTbkT.png" },
+    { "id": 10, "url": "https://qumi1raeu1ly0ptd.public.blob.vercel-storage.com/Solaranlagen/Zaehlerschrank_AC_Montage-VApDLuyyNs6F4WeTZPz0dHu6OdNKd3.png" }
+  ]
+}
